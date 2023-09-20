@@ -10,7 +10,6 @@ Overall, this is meant to be a practical guide, aiming for what is best personal
 
 With that in mind, the first principle and a disclaimer to follow: 
 
-
 ##### Principle of Advice
 
 - Take all advice with a grain of salt, think critically and assess limitations.
@@ -76,7 +75,7 @@ With that in mind, the first principle and a disclaimer to follow:
 - Admit your mistakes and weaknesses. Be realistic, but don't be too hard on yourself. Try to compensate any damage to others, if feasible. 
     - Similarly, respect those who admit their mistakes and offer them a chance at redemption. People that try to hide their mistakes don't make great allies. 
 - Be humble. Do not believe you can cheat your way easily. People aren't stupid. In many cases, it would come back to bite you, sooner or later. 
-    - Also, do not approach people with an expectation of benefit. The vibe you give will reflect it. 
+    - Likewise, do not approach people with an expectation of benefit. The vibe you give will reflect it. 
 - Accept that you need other people. Can't do everything by yourself. Can't survive alone, nor live a long, fulfilling life without others. 
 
 #### Principle of Emotionality
