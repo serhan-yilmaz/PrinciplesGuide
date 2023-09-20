@@ -28,18 +28,42 @@ With that in mind, the first principle and a disclaimer to follow:
 - Limit altruism, do not sacrifice yourself for others.
 - Don't be selfless, do not believe others if they claim they are selfless.
 
-#### Principle of Reciprocity
-
-- Follow [the rules of reciprocity](https://en.wikipedia.org/wiki/Reciprocal_altruism). 
-
 #### Principle of Nonmaleficence
 
 - Do not harm others if they don't harm you or anyone else. 
 - Do not tolerate, trust or accept those who would use and harm others for selfish reasons. 
 - If retaliation is warranted, make sure magnitude is proportional to, and not exceed the intended harm or actual harm (whichever is greater). 
 - (Try to) Protect those who are in need, who are harmed by others for selfish reasons. Particularly those who lack the power to protect themselves. 
-    - Only if you can, don't be a hero. See principle of self-value, you are not responsible for other people's happiness. 
-    - But remember the poem: ["First they came for..."](https://en.wikipedia.org/wiki/First_they_came_...)
+  - Only if you can, don't be a hero. See principle of self-value, you are not responsible for other people's happiness. 
+  - But remember the poem: ["First they came for..."](https://en.wikipedia.org/wiki/First_they_came_...)
+
+#### Principle of Reciprocity
+
+- Follow [the rules of reciprocity](https://en.wikipedia.org/wiki/Reciprocal_altruism), to form or continue a connection:
+  - Key loop: Give what you take <=> Receive what you give.  
+  - Reciprocate when you receive a favor, if feasible. 
+  - Don't be transactional. Give without an expectation to receive. Don't give when you can't afford not to receive. 
+  - If your favor is not reciprocated, don't blame or demand. But also, don't repeat if the favor is costly to you. 
+    - If this happens, take it as a signal that the other party isn't interested in connecting with you. Stop the loop. 
+    - Similarly, don't reciprocate if you would like to stop the loop. It doesn't have to last forever.
+  - While reciprocating, aim for a favor that is equal or slightly more in magnitude than what you received. 
+  - Start small to initiate the loop, and grow your way up. 
+  - Ignore small variations and violations as trust build up. 
+  - [Link for more info](https://en.wikipedia.org/wiki/Reciprocity_(social_psychology)). 
+- Clarify beforehand if you will expect something back from a favor. 
+  - That's a transaction. Negotiate and come to an agreement beforehand. Verbally if it is someone you trust, or by written contract. 
+- Ally yourself with others who will engage in reciprocal behaviour in good will. 
+  - Engage it yourself because you care and wish to form a mutually beneficial connection. 
+    - Not because you have a favor in mind that you would like to request. 
+  - Exercise caution. If someone haven't earned your trust yet, assess the motivation behind any favors you receive. 
+    - Is the intention to connect, or is it to leave you indebted before making a request? If it seems like the latter, disengage. It's not worth it.
+    - Is the favor big? Refuse, or proceed with extreme caution. Disengage if there are any strings attached, however small. 
+- When in doubt, match the other person's efforts.
+- Golden rule: Establish cooperation and *maximize mutual benefit*.  
+  - Engage in productive exchanges. In many cases, it is easy to contribute to another person's happiness with minimal cost to yourself. 
+    - Small acts of kindness can serve this purpose. 
+    - Take initiative sometimes, and test the waters. It can pay off. 
+  - Don't ask for favors that provide little benefit to you but impose a big burden on the other person. Likewise, don't accept requests that comes with great cost to you but only a small benefit to the other person. That's not productive. 
 
 #### Principle of Loyalty
 
@@ -55,8 +79,8 @@ With that in mind, the first principle and a disclaimer to follow:
 - Don't lie or mislead others without good reason, especially for personal benefit. 
 - Be open and honest in your interactions, with people you trust. 
 - Have people in your life you can trust, where you can be yourself without judgement. Prioritize and make effort to form such close relationships. 
-- Treat others how you want to be treated yourself. 
-    - Better yet, treat them how they want to be treated. When feasible. 
+- [Treat others how you want to be treated yourself](https://en.wikipedia.org/wiki/Golden_Rule). 
+  - Better yet, treat them how they want to be treated. When feasible. 
 - Be open with your feelings and aspirations. First, with yourself. Then, with others you trust. This is important. Accept. 
 - Express your thoughts and feelings clearly. Especially when you have a concern. Don't play it off as a joke, nor let someone else dismiss it as a joke. Be aware.
 - Know your limits. Be assertive in establishing your boundaries. Don't shy away from conflict if violated. But, pick your fights. Goal is to defend. Avoid unnecessary fights, especially if this is not an repeated interaction. 
@@ -65,37 +89,37 @@ With that in mind, the first principle and a disclaimer to follow:
 
 - Do not think or claim you are more important than others. 
   Everyone is important to themselves from their perspective. 
-    - Be aware that your importance to others will generally be proportional to what you can contribute to their lives. 
-	- Wish to be more important? Contribute more. 
-	- Or better yet, be important to yourself and express love. Outside validation will never be sufficient by itself anyway. 
+  - Be aware that your importance to others will generally be proportional to what you can contribute to their lives. 
+  - Wish to be more important? Contribute more. 
+  - Or better yet, be important to yourself and express love. Outside validation will never be sufficient by itself anyway. 
 - Do not judge anyone, unless they harm someone. 
-    - But, always assess their potential to be a trustworthy and valuable ally. 
-	- Also, evaluate any risks involved. Don't wait for harm to come, take any necessary precautions. Extricate yourself and disconnect if necessary. Remember you are responsible for your well-being. 
+  - But, always assess their potential to be a trustworthy and valuable ally. 
+  - Also, evaluate any risks involved. Don't wait for harm to come, take any necessary precautions. Extricate yourself and disconnect if necessary. Remember you are responsible for your well-being. 
 - Accept people as they are, and acknowledge you can't change them. You do not have such power, only they do. 
 - Admit your mistakes and weaknesses. Be realistic, but don't be too hard on yourself. Try to compensate any damage to others, if feasible. 
-    - Similarly, respect those who admit their mistakes and offer them a chance at redemption. People that try to hide their mistakes don't make great allies. 
+  - Similarly, respect those who admit their mistakes and offer them a chance at redemption. People that try to hide their mistakes don't make great allies. 
 - Be humble. Do not believe you can cheat your way easily. People aren't stupid. In many cases, it would come back to bite you, sooner or later. 
-    - Likewise, do not approach people with an expectation of benefit. The vibe you give will reflect it. 
-	- Instead, be sincere and approach people aiming for mutual benefit, follow the principle of authenticity to form reliable alliances. 
+  - Likewise, do not approach people with an expectation of benefit. The vibe you give will reflect it. 
+  - Instead, be sincere and approach people aiming for mutual benefit, follow the principle of authenticity to form reliable alliances. 
 - Accept that you need other people. Can't do everything by yourself. Can't survive alone, nor live a long, fulfilling life without others. 
 
 #### Principle of Emotionality
 
 - Accept that humans behave emotionally as much as they do logically.
- Learn the necessary skills to navigate both landscapes. 
+  Learn the necessary skills to navigate both landscapes. 
 - This is multi-faceted. Consider the following: 
-    - [Emotional awareness](https://en.wikipedia.org/wiki/Self-awareness) for starters. Learn to name your feelings and be aware of them. Make use of [feeling wheel](https://en.everybodywiki.com/Feeling_Wheel). 
-	- [Emotional regulation](https://en.wikipedia.org/wiki/Emotional_self-regulation). Learn to manage your emotions without being damaging. 
-	- [Emotional expression](https://en.wikipedia.org/wiki/Emotional_expression). Learn to convey your emotions effectively. Acknowledge that it's a subjective experience. Prefer ["I" language](https://en.wikipedia.org/wiki/I-message) when possible. Don't forget to express positive emotions like love and gratitude. 
-	- [Empathy](https://en.wikipedia.org/wiki/Empathy). Learn to be socially aware and recognize emotions of others. 
-	    - Level one, place yourself in other person's position and assess how you would feel. 
-		- Level two, assess how they would feel based on their beliefs and perception that are different than yours. 
-		- This skill usually brings compassion as well. 
-	- [Emotional validation](https://en.wikipedia.org/wiki/Emotional_validation). Learn to convey that you understand and accept other person's emotions. Relate to the situation if you can, "I would have felt the same in that situation". Realize that you do not have to condone actions.
+  - [Emotional awareness](https://en.wikipedia.org/wiki/Self-awareness) for starters. Learn to name your feelings and be aware of them. Make use of [feeling wheel](https://en.everybodywiki.com/Feeling_Wheel). 
+  - [Emotional regulation](https://en.wikipedia.org/wiki/Emotional_self-regulation). Learn to manage your emotions without being damaging. 
+  - [Emotional expression](https://en.wikipedia.org/wiki/Emotional_expression). Learn to convey your emotions effectively. Acknowledge that it's a subjective experience. Prefer ["I" language](https://en.wikipedia.org/wiki/I-message) when possible. Don't forget to express positive emotions like love and gratitude. 
+  - [Empathy](https://en.wikipedia.org/wiki/Empathy). Learn to be socially aware and recognize emotions of others. 
+    - Level one, place yourself in other person's position and assess how you would feel. 
+    - Level two, assess how they would feel based on their beliefs and perception that are different than yours. 
+    - This skill usually brings compassion as well. 
+  - [Emotional validation](https://en.wikipedia.org/wiki/Emotional_validation). Learn to convey that you understand and accept other person's emotions. Relate to the situation if you can, "I would have felt the same in that situation". Realize that you do not have to condone actions.
 - A caveat: Be aware but don't believe your feelings blindly. Accept them and heed their call. They are very real themselves, but not necessarily what they imply. 
-    - For example, suppose you feel guilty. This doesn't necessarily mean you are guilty or made a mistake.
-    - Similarly, if you feel anxious, doesn't necessarily mean you are in danger. 
-    - Negative emotions are warnings, but they can be false alarms. Use logic to discern. Try to understand the reasons behind if there is a discrepancy. 
+  - For example, suppose you feel guilty. This doesn't necessarily mean you are guilty or made a mistake.
+  - Similarly, if you feel anxious, doesn't necessarily mean you are in danger. 
+  - Negative emotions are warnings, but they can be false alarms. Use logic to discern. Try to understand the reasons behind if there is a discrepancy. 
 
 #### Principle of Attachment
 
@@ -144,8 +168,6 @@ Take responsibility for your actions.
 
 -- Most importantly, live and think for yourself
 
--- Match other person's effort (reciprocity)
-
 -- Determine your boundaries and convey them clearly
 
 -- Principle of perspective
@@ -161,8 +183,6 @@ Take responsibility for your actions.
 -- Be cautiously optimistic
 
 -- Communication?
-
--- List the rules of reciprocity clearly
 
 -- Be your own person
 
