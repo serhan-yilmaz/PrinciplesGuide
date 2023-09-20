@@ -59,11 +59,18 @@ With that in mind, the first principle and a disclaimer to follow:
     - Is the intention to connect, or is it to leave you indebted before making a request? If it seems like the latter, disengage. It's not worth it.
     - Is the favor big? Refuse, or proceed with extreme caution. Disengage if there are any strings attached, however small. 
 - When in doubt, match the other person's efforts.
-- Golden rule: Establish cooperation and *maximize mutual benefit*.  
-  - Engage in productive exchanges. In many cases, it is easy to contribute to another person's happiness with minimal cost to yourself. 
+
+#### Principle of Cooperation 
+
+- Aim to maximize mutual benefit.
+    - Key is to increase total gain by working together. 
+    - Don't ask for favors that provide little benefit to you but impose a big burden on the other person. Likewise, don't accept requests that comes with great cost to you but only a small benefit to the other person. 
+- Engage in productive exchanges. In many cases, it is easy to contribute to another person's happiness with minimal cost to yourself. 
     - Small acts of kindness can serve this purpose. 
     - Take initiative sometimes, and test the waters. It can pay off. 
-  - Don't ask for favors that provide little benefit to you but impose a big burden on the other person. Likewise, don't accept requests that comes with great cost to you but only a small benefit to the other person. That's not productive. 
+- Defend your interests first. Cooperate only when the interests align and the pay-off will be beneficial to both parties, in short-term or long-term.  
+    - Not always for foreseeable gains. Give leeway when there is little cost to you. 
+	- Do good for the sake of doing good, sometimes
 
 #### Principle of Loyalty
 
@@ -116,14 +123,14 @@ With that in mind, the first principle and a disclaimer to follow:
     - Level two, assess how they would feel based on their beliefs and perception that are different than yours. 
     - This skill usually brings compassion as well. 
   - [Emotional validation](https://en.wikipedia.org/wiki/Emotional_validation). Learn to convey that you understand and accept other person's emotions. Relate to the situation if you can, "I would have felt the same in that situation". Realize that you do not have to condone actions.
-- A caveat: Be aware but don't believe your feelings blindly. Accept them and heed their call. They are very real themselves, but not necessarily what they imply. 
-  - For example, suppose you feel guilty. This doesn't necessarily mean you are guilty or made a mistake.
-  - Similarly, if you feel anxious, doesn't necessarily mean you are in danger. 
+- A caveat: Acknowledge, but don't believe your feelings blindly. They are quite real themselves, but not necessarily what they imply. 
+  - For example, suppose you feel guilty. This doesn't necessarily mean you are guilty or made a mistake. Similarly, if you feel anxious, doesn't necessarily mean you are in danger. 
   - Negative emotions are warnings, but they can be false alarms. Use logic to discern. Try to understand the reasons behind if there is a discrepancy. 
 
 #### Principle of Attachment
 
 - Be capable of accepting loss. Don't try to avoid the inevitable. 
+    - Understand [sunk cost fallacy](https://en.wikipedia.org/wiki/Sunk_cost#Fallacy_effect), and try not to fall into it. 
 - Don't be afraid to attach, it doesn't have to be permanent. 
 - Walk away, if a relationship becomes consistently harmful or otherwise not worth it in the long run. 
 - Check out [attachment styles](https://en.m.wikipedia.org/wiki/Attachment_in_adults#Styles). 
@@ -136,9 +143,29 @@ With that in mind, the first principle and a disclaimer to follow:
 - Don't assume porn and erotica reflect reality.
 - Check out [love languages](https://en.wikipedia.org/wiki/The_Five_Love_Languages). Speak the same language. 
 
+#### Key Takeaways
+Overall, relationships can be tricky and nuanced, as they require a delicate balance. There is indeed a lot to balance. While these apply to more than relationships, heed the following in your interactions:
+
+##### Principle of Balance
+- Balance being selfless and being selfish.
+- Balance give and take.
+- Balance emotionality with logic.
+- Balance serious with humor. 
+- Balance being carefree with respect. 
+- Balance asserting boundaries with compromise. 
+- Balance optimism and trust with caution.
+- Balance future concern with living in the moment.
+- Balance hope with effort. 
+- Balance rules and responsibilities with enjoyment.
+- Balance staying in comfort zone with taking initiative. 
+- Balance foreseeable with exploration of the unknown.
+- Balance being dependable without falling into predictable. 
+- Finally, balance self-interest with a genuine interest in others. 
+* Most importantly, balance valuing others with valuing yourself.
+
 ### 2. Happiness
 
-### 3. Life
+### 3. Productivity
 
 ### 4. Health
 
@@ -164,9 +191,9 @@ Take responsibility for your actions.
 
 -- Be kind 
 
--- Value to self and value to others is different, don't conflate the two. 
+-- Accept them and heed their call.
 
--- Most importantly, live and think for yourself
+-- Value to self and value to others is different, don't conflate the two. 
 
 -- Determine your boundaries and convey them clearly
 
@@ -188,6 +215,10 @@ Take responsibility for your actions.
 
 -- Shopping cart principle
 
+-- Balance hope with effort. 
+
+-- Balance comfort with taking initiative. 
+
 -- Key of collaboration
 
 -- Principle of initiation?
@@ -205,8 +236,6 @@ Take responsibility for your actions.
 -- Leave good impressions, it makes a difference 
 
 -- Conversely, don't aim to impress people deliberately 
-
--- Do good for the sake of doing good, sometimes 
 
 -- https://en.m.wikipedia.org/wiki/Dual_strategies_theory
 
@@ -259,3 +288,5 @@ Take responsibility for your actions.
 -- Principle of Aggression
 
 -- Effective signals are costly signals
+
+-- Golden rule -> Principle of Cooperation?
