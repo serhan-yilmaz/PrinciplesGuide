@@ -48,10 +48,10 @@ With that in mind, the first principle and a disclaimer to follow:
     - Similarly, don't reciprocate if you would like to stop the loop. It doesn't have to last forever.
   - While reciprocating, aim for a favor that is equal or slightly more in magnitude than what you received. 
   - Start small to initiate the loop, and grow your way up. 
-  - Ignore small variations and violations as trust build up. 
+  - Ignore small variations and violations as trust builds up. 
   - [Link for more info](https://en.wikipedia.org/wiki/Reciprocity_(social_psychology)). 
 - Clarify beforehand if you will expect something back from a favor. 
-  - That's a transaction. Negotiate and come to an agreement beforehand. Verbally if it is someone you trust, or by written contract. 
+  - That's a transaction. Negotiate and come to an agreement beforehand. Verbally if it is someone you trust, or by written contract. Otherwise, manage your expectations. 
 - Ally yourself with others who will engage in reciprocal behaviour in good will. 
   - Engage it yourself because you care and wish to form a mutually beneficial connection. 
     - Not because you have a favor in mind that you would like to request. 
@@ -108,7 +108,7 @@ With that in mind, the first principle and a disclaimer to follow:
 - Accept that humans behave emotionally as much as they do logically.
   Learn the necessary skills to navigate both landscapes. 
 - This is multi-faceted. Consider the following: 
-  - [Emotional awareness](https://en.wikipedia.org/wiki/Self-awareness) for starters. Learn to name your feelings and be aware of them. Make use of [feeling wheel](https://en.everybodywiki.com/Feeling_Wheel). 
+  - [Emotional awareness](https://en.wikipedia.org/wiki/Self-awareness) for starters. Learn to name your feelings and be aware of them. Make use of [feeling wheel](https://commons.wikimedia.org/wiki/File:The_Feeling_Wheel.png). 
   - [Emotional regulation](https://en.wikipedia.org/wiki/Emotional_self-regulation). Learn to manage your emotions without being damaging. 
   - [Emotional expression](https://en.wikipedia.org/wiki/Emotional_expression). Learn to convey your emotions effectively. Acknowledge that it's a subjective experience. Prefer ["I" language](https://en.wikipedia.org/wiki/I-message) when possible. Don't forget to express positive emotions like love and gratitude. 
   - [Empathy](https://en.wikipedia.org/wiki/Empathy). Learn to be socially aware and recognize emotions of others. 
