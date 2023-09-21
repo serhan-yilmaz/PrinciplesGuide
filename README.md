@@ -126,7 +126,8 @@ With that in mind, the first principle and a warning to follow:
 - Be humble. Do not believe you can cheat your way easily. People aren't stupid. In many cases, it would come back to bite you, sooner or later. 
   - Likewise, do not approach people with an expectation of benefit. The vibe you give will reflect it. 
   - Instead, be sincere and approach people aiming for mutual benefit, follow the principle of authenticity to form reliable alliances. 
-- Accept that you need other people. Can't do everything by yourself. Can't survive alone, nor live a long, fulfilling life without others. 
+- Come to terms with the fact that you need other people. Can't do everything by yourself. Can't survive alone, nor live a long, fulfilling life without others. 
+  - Acknowledge your reliance on the support and cooperation with others. 
 
 #### Principle of Emotionality
 
