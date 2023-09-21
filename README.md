@@ -294,4 +294,8 @@ Take responsibility for your actions.
 
 -- Principle of Aggression
 
+-- Wisdom is translating information into action.
+
+-- Passive-aggressiveness
+
 
