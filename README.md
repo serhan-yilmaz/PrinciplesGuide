@@ -66,6 +66,14 @@ With that in mind, the first principle and a warning to follow:
     - Not always for foreseeable gains. Give leeway when there is little cost to you. 
 	- Do good for the sake of doing good, sometimes. 
 
+#### Principle of Loyalty
+
+- Do not betray those who are loyal to you. 
+- Be loyal to those you trust, and aim for mutual benefit. 
+- Choose your allies well. Go for people who won't betray you but will lift you up. 
+- In return, provide support and encouragement to your allies. Lift them up. 
+- Obey the rule of reciprocity in your interactions, for as long as you wish to sustain a connection. 
+
 #### Principle of Alliance and Goodwill
 - Prioritize forming mutually beneficial connections. Engage in reciprocal behavior and do favors because you care. 
   - Not because you have something in mind that you would like to request. 
@@ -89,15 +97,6 @@ With that in mind, the first principle and a warning to follow:
   - The reason is: They are difficult to fake. For example, carrying expensive jewelry works as a signal of wealth because not everyone can accept that cost. 
   - This applies to demonstrating goodwill as well. Time, effort and shared history can function as big costs for this purpose. Similarly, the ability to handle rejections or losses gracefully can be an effective signal of goodwill. 
 
-
-#### Principle of Loyalty
-
-- Do not betray those who are loyal to you. 
-- Be loyal to those you trust, and aim for mutual benefit. 
-- Choose your allies well. Go for people who won't betray you but will lift you up. 
-- In return, provide support and encouragement to your allies. Lift them up. 
-- Obey the rule of reciprocity in your interactions, for as long as you wish to sustain a connection. 
-
 #### Principle of Authenticity
 
 - Be honest with yourself, always. 
@@ -107,7 +106,7 @@ With that in mind, the first principle and a warning to follow:
 - Have people in your life you can trust, where you can be yourself without judgement. Prioritize and make effort to form such close relationships. 
 - [Treat others how you want to be treated yourself](https://en.wikipedia.org/wiki/Golden_Rule). 
   - Better yet, treat them how they want to be treated. When feasible. 
-- Be open with your feelings and aspirations. First, with yourself. Then, with others you trust. This is important. Accept. 
+- Be open with your feelings and aspirations. First, with yourself. Then, with others you trust. This is important. 
 - Express your thoughts and feelings clearly. Especially when you have a concern. Don't play it off as a joke, nor let someone else dismiss it as a joke. Be aware.
 - Know your limits. Be assertive in establishing your boundaries. Don't shy away from conflict if violated. But, pick your fights. Goal is to defend. Avoid unnecessary fights, especially if this is not an repeated interaction. Compromise as necessary. 
 
