@@ -88,11 +88,13 @@ With that in mind, the first principle and a warning to follow:
 	- However, lean towards acceptance if it's going to be a huge help to the requestor while not being a substantial cost to you. Assess risks and potential. See it as an opportunity to connect, if desirable.
 - Communicate values clearly. Express appreciation appropriately. 
   - Don't pretend something is a huge help while it is not. Likewise, do not understate if something was truly helpful. 
-  - Do not engage in negotiation. Only clarify the benefits and costs to you. 
+  - Do not negotiate favors. Only clarify the benefits and costs to you. 
     - Negotiate transactions, not favors. 
   - Never criticize a behavior that you would like to see repeated. Instead, validate and give positive feedback by expressing appreciation.  
 - Address the person directly. Do not gossip, nor bring other people in the middle of your interactions. 
-  - Likewise, do not trust or ally with someone who engage in such behavior, unless necessary. 
+  - Likewise, do not trust or ally with someone who engage in such behavior, unless necessary.
+- Try to leave good impressions, it makes a difference.
+  - Conversely, do not aim to impress people deliberately.
 - Understand that [costly actions are effective signals](https://en.wikipedia.org/wiki/Costly_signaling_theory_in_evolutionary_psychology). 
   - The reason is: They are difficult to fake. For example, carrying expensive jewelry works as a signal of wealth because not everyone can accept that cost. 
   - This applies to demonstrating goodwill as well. Time, effort and shared history can function as big costs for this purpose. Similarly, the ability to handle rejections or losses gracefully can be an effective signal of goodwill. 
@@ -234,12 +236,6 @@ Take responsibility for your actions.
 
 -- Shopping cart principle
 
--- Balance hope with effort. 
-
--- Balance comfort with taking initiative. 
-
--- Key of collaboration
-
 -- Principle of initiation?
 
 -- Cooperation is key for survival and society
@@ -249,12 +245,6 @@ Take responsibility for your actions.
 -- Focus on the things that you can control (perspective)
 
 -- Leave things better than when you received or found them
-
--- Principle of Impressions 
-
--- Leave good impressions, it makes a difference 
-
--- Conversely, don't aim to impress people deliberately 
 
 -- https://en.m.wikipedia.org/wiki/Dual_strategies_theory
 
