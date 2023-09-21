@@ -39,7 +39,7 @@ With that in mind, the first principle and a warning to follow:
 
 #### Principle of Reciprocity
 
-- Follow [the rules of reciprocity](https://en.wikipedia.org/wiki/Reciprocal_altruism), to form or continue a connection:
+- Follow [the rules of reciprocity](https://en.wikipedia.org/wiki/Reciprocity_(social_psychology)), to form or continue a connection:
   - Key loop: Give what you take <=> Receive what you give.  
   - Reciprocate when you receive a favor, if feasible. 
   - Don't be transactional. Give without an expectation to receive. Don't give when you can't afford not to receive. 
@@ -49,15 +49,9 @@ With that in mind, the first principle and a warning to follow:
   - While reciprocating, aim for a favor that is equal or slightly more in magnitude than what you received. 
   - Start small to initiate the loop, and grow your way up. 
   - Ignore small variations and violations as trust builds up. 
-  - [Link for more info](https://en.wikipedia.org/wiki/Reciprocity_(social_psychology)). 
+- Understand [reciprocal altruism](https://en.wikipedia.org/wiki/Reciprocal_altruism). That's the nature's way of establishing cooperation. Trust it.
 - Clarify beforehand if you will expect something back from a favor. 
   - That's a transaction. Negotiate and come to an agreement beforehand. Verbally if it is someone you trust, or by written contract. Otherwise, manage your expectations. 
-- Ally yourself with others who will engage in reciprocal behaviour in good will. 
-  - Engage it yourself because you care and wish to form a mutually beneficial connection. 
-    - Not because you have a favor in mind that you would like to request. 
-  - Exercise caution. If someone haven't earned your trust yet, assess the motivation behind any favors you receive. 
-    - Is the intention to connect, or is it to leave you indebted before making a request? If it seems like the latter, disengage. It's not worth it.
-    - Is the favor big? Refuse, or proceed with extreme caution. Disengage if there are any strings attached, however small. 
 - When in doubt, match the other person's efforts.
 
 #### Principle of Cooperation 
@@ -70,7 +64,31 @@ With that in mind, the first principle and a warning to follow:
     - Take initiative sometimes, and test the waters. It can pay off. 
 - Defend your interests first. Cooperate only when the interests align and the pay-off will be beneficial to both parties, in short-term or long-term.  
     - Not always for foreseeable gains. Give leeway when there is little cost to you. 
-	- Do good for the sake of doing good, sometimes
+	- Do good for the sake of doing good, sometimes. 
+
+#### Principle of Alliance and Goodwill
+- Prioritize forming mutually beneficial connections. Engage in reciprocal behavior and do favors because you care. 
+  - Not because you have something in mind that you would like to request. 
+- Ally yourself with others who will engage in reciprocal behaviour in good will. 
+  - Exercise caution. If someone haven't earned your trust yet, assess the motivation behind any favors you receive. 
+    - Is the intention to connect, or is it to leave you indebted before making a request? If it seems like the latter, disengage. It's not worth it.
+    - Is the favor big? Refuse, or proceed with extreme caution. Disengage if there are any strings attached, however small. 
+	- Does the person has a history of gossip? Refuse, unless truly needed. 
+  - Acknowledge that you are not obligated to fulfill a request in return for a previous favor, particularly from someone you don't trust yet.  
+    - You can always reciprocate later and make up for it in a way of your choosing. Doesn't violate loyalty.
+	- A bad actor may not be happy with this. Not a big issue for someone whose aim is to connect. 
+	- However, lean towards acceptance if it's going to be a huge help to the requestor while not being a substantial cost to you. Assess risks and potential. See it as an opportunity to connect, if desirable.
+- Communicate values clearly. Express appreciation appropriately. 
+  - Don't pretend something is a huge help while it is not. Likewise, do not understate if something was truly helpful. 
+  - Do not engage in negotiation. Only clarify the benefits and costs to you. 
+    - Negotiate transactions, not favors. 
+  - Never criticize a behavior that you would like to see repeated. Instead, validate and give positive feedback by expressing appreciation.  
+- Address the person directly. Do not gossip, nor bring other people in the middle of your interactions. 
+  - Likewise, do not trust or ally with someone who engage in such behavior, unless necessary. 
+- Understand that [costly actions are effective signals](https://en.wikipedia.org/wiki/Costly_signaling_theory_in_evolutionary_psychology). 
+  - The reason is: They are difficult to fake. For example, carrying expensive jewelry works as a signal of wealth because not everyone can accept that cost. 
+  - This applies to demonstrating goodwill as well. Time, effort and shared history can function as big costs for this purpose. Similarly, the ability to handle rejections or losses gracefully can be an effective signal of goodwill. 
+
 
 #### Principle of Loyalty
 
@@ -166,7 +184,7 @@ Overall, relationships can be tricky and nuanced, as they require a delicate bal
 
 ### 2. Happiness
 
-### 3. Productivity
+### 3. Life and Productivity
 
 ### 4. Health
 
@@ -252,8 +270,6 @@ Take responsibility for your actions.
 
 -- Stop to smell the roses along the way
 
--- Strike a balance between being Selfless and Selfish
-
 -- Fate is not written. Change it if not desirable. Exert will. Take action. 
 
 -- Principle of truth
@@ -288,6 +304,4 @@ Take responsibility for your actions.
 
 -- Principle of Aggression
 
--- Effective signals are costly signals
 
--- Golden rule -> Principle of Cooperation?
