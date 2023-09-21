@@ -8,7 +8,7 @@ To explain my view with an analogy: Principles serve as a compass that, in the a
 
 Overall, this is meant to be a practical guide, aiming for what is best personally and "what can help", as opposed to prescribing morals on "what should" and what is best for the society. 
 
-With that in mind, the first principle and a disclaimer to follow: 
+With that in mind, the first principle and a warning to follow: 
 
 ##### Principle of Advice
 
@@ -34,7 +34,7 @@ With that in mind, the first principle and a disclaimer to follow:
 - Do not tolerate, trust or accept those who would use and harm others for selfish reasons. 
 - If retaliation is warranted, make sure magnitude is proportional to, and not exceed the intended harm or actual harm (whichever is greater). 
 - (Try to) Protect those who are in need, who are harmed by others for selfish reasons. Particularly those who lack the power to protect themselves. 
-  - Only if you can, don't be a hero. See principle of self-value, you are not responsible for other people's happiness. 
+  - Only if you can. Don't be a hero. See principle of self-value, you are not responsible for other people's happiness. 
   - But remember the poem: ["First they came for..."](https://en.wikipedia.org/wiki/First_they_came_...)
 
 #### Principle of Reciprocity
@@ -76,7 +76,7 @@ With that in mind, the first principle and a disclaimer to follow:
 
 - Do not betray those who are loyal to you. 
 - Be loyal to those you trust, and aim for mutual benefit. 
-- Choose your allies well. Go for people who won't betray you and lift you up. 
+- Choose your allies well. Go for people who won't betray you but will lift you up. 
 - In return, provide support and encouragement to your allies. Lift them up. 
 - Obey the rule of reciprocity in your interactions, for as long as you wish to sustain a connection. 
 
@@ -90,7 +90,7 @@ With that in mind, the first principle and a disclaimer to follow:
   - Better yet, treat them how they want to be treated. When feasible. 
 - Be open with your feelings and aspirations. First, with yourself. Then, with others you trust. This is important. Accept. 
 - Express your thoughts and feelings clearly. Especially when you have a concern. Don't play it off as a joke, nor let someone else dismiss it as a joke. Be aware.
-- Know your limits. Be assertive in establishing your boundaries. Don't shy away from conflict if violated. But, pick your fights. Goal is to defend. Avoid unnecessary fights, especially if this is not an repeated interaction. 
+- Know your limits. Be assertive in establishing your boundaries. Don't shy away from conflict if violated. But, pick your fights. Goal is to defend. Avoid unnecessary fights, especially if this is not an repeated interaction. Compromise as necessary. 
 
 #### Principle of Humility and Respect
 
@@ -104,7 +104,7 @@ With that in mind, the first principle and a disclaimer to follow:
   - Also, evaluate any risks involved. Don't wait for harm to come, take any necessary precautions. Extricate yourself and disconnect if necessary. Remember you are responsible for your well-being. 
 - Accept people as they are, and acknowledge you can't change them. You do not have such power, only they do. 
 - Admit your mistakes and weaknesses. Be realistic, but don't be too hard on yourself. Try to compensate any damage to others, if feasible. 
-  - Similarly, respect those who admit their mistakes and offer them a chance at redemption. People that try to hide their mistakes don't make great allies. 
+  - Similarly, respect those who admit their mistakes and offer them a chance at redemption. People that try to hide their mistakes wouldn't be great allies. 
 - Be humble. Do not believe you can cheat your way easily. People aren't stupid. In many cases, it would come back to bite you, sooner or later. 
   - Likewise, do not approach people with an expectation of benefit. The vibe you give will reflect it. 
   - Instead, be sincere and approach people aiming for mutual benefit, follow the principle of authenticity to form reliable alliances. 
