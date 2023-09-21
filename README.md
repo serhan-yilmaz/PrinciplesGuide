@@ -82,6 +82,7 @@ With that in mind, the first principle and a warning to follow:
 
 #### Principle of Authenticity
 
+- Be honest with yourself, always. 
 - Do what you say. Say what you do. Follow through your promises.
 - Don't lie or mislead others without good reason, especially for personal benefit. 
 - Be open and honest in your interactions, with people you trust. 
