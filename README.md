@@ -148,7 +148,7 @@ Overall, relationships can be tricky and nuanced, as they require a delicate bal
 
 ##### Principle of Balance
 - Balance being selfless and being selfish.
-- Balance give and take.
+- Balance giving and taking.
 - Balance emotionality with logic.
 - Balance serious with humor. 
 - Balance being carefree with respect. 
