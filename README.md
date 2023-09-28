@@ -53,7 +53,7 @@ With that in mind, the first principle and a warning to follow:
 - Clarify beforehand if you will expect something back from a favor. 
   - That's a transaction. Negotiate and come to an agreement beforehand. Verbally if it is someone you trust, or by written contract. Otherwise, manage your expectations. 
 - When in doubt, match the other person's efforts.
-- Check out the [notes on reciprocal relations and goodwill](#Reciprocal Relations and Goodwill) for further reading. 
+- Check out the [notes on reciprocal relations and goodwill](#reciprocal-relations-and-goodwill) for further reading. 
 
 #### Principle of Cooperation 
 
