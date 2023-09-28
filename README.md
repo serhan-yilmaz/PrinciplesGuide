@@ -10,7 +10,7 @@ Overall, this is meant to be a practical guide, aiming for what is best personal
 
 With that in mind, the first principle and a warning to follow: 
 
-##### Principle of Advice
+#### Principle of Advice
 
 - Take all advice with a grain of salt, think critically and assess limitations.
 - Realize there is no single answer, multiple paths can reach the same destination.
@@ -53,6 +53,7 @@ With that in mind, the first principle and a warning to follow:
 - Clarify beforehand if you will expect something back from a favor. 
   - That's a transaction. Negotiate and come to an agreement beforehand. Verbally if it is someone you trust, or by written contract. Otherwise, manage your expectations. 
 - When in doubt, match the other person's efforts.
+- Check out the [notes on reciprocal relations and goodwill](#Reciprocal Relations and Goodwill) for further reading. 
 
 #### Principle of Cooperation 
 
@@ -73,31 +74,6 @@ With that in mind, the first principle and a warning to follow:
 - Choose your allies well. Go for people who won't betray you but will lift you up. 
 - In return, provide support and encouragement to your allies. Lift them up. 
 - Obey the rule of reciprocity in your interactions, for as long as you wish to sustain a connection. 
-
-#### Principle of Alliance and Goodwill
-- Prioritize forming mutually beneficial connections. Engage in reciprocal behavior and do favors because you care. 
-  - Not because you have something in mind that you would like to request. 
-- Ally yourself with others who will engage in reciprocal behaviour in good will. 
-  - Exercise caution. If someone haven't earned your trust yet, assess the motivation behind any favors you receive. 
-    - Is the intention to connect, or is it to leave you indebted before making a request? If it seems like the latter, disengage. It's not worth it.
-    - Is the favor big? Refuse, or proceed with extreme caution. Disengage if there are any strings attached, however small. 
-	- Does the person has a history of gossip? Refuse, unless truly needed. 
-  - Acknowledge that you are not obligated to fulfill a request in return for a previous favor, particularly from someone you don't trust yet.  
-    - You can always reciprocate later and make up for it in a way of your choosing. Doesn't violate loyalty.
-	- A bad actor may not be happy with this. Not a big issue for someone whose aim is to connect. 
-	- However, lean towards acceptance if it's going to be a huge help to the requestor while not being a substantial cost to you. Assess risks and potential. See it as an opportunity to connect, if desirable.
-- Communicate values clearly. Express appreciation appropriately. 
-  - Don't pretend something is a huge help while it is not. Likewise, do not understate if something was truly helpful. 
-  - Do not negotiate favors. Only clarify the benefits and costs to you. 
-    - Negotiate transactions, not favors. 
-  - Never criticize a behavior that you would like to see repeated. Instead, validate and give positive feedback by expressing appreciation.  
-- Address the person directly. Do not gossip, nor bring other people in the middle of your interactions. 
-  - Likewise, do not trust or ally with someone who engage in such behavior, unless necessary.
-- Try to leave good impressions, it makes a difference.
-  - Conversely, do not aim to impress people deliberately.
-- Understand that [costly actions are effective signals](https://en.wikipedia.org/wiki/Costly_signaling_theory_in_evolutionary_psychology). 
-  - The reason is: They are difficult to fake. For example, carrying expensive jewelry works as a signal of wealth because not everyone can accept that cost. 
-  - This applies to demonstrating goodwill as well. Time, effort and shared history can function as big costs for this purpose. Similarly, the ability to handle rejections or losses gracefully can be an effective signal of goodwill. 
 
 #### Principle of Authenticity
 
@@ -183,6 +159,33 @@ Overall, relationships can be tricky and nuanced, as they require a delicate bal
 - Balance being dependable without falling into predictable. 
 - Finally, balance self-interest with a genuine interest in others. 
 * Most importantly, balance valuing others with valuing yourself.
+
+#### Notes
+
+##### Reciprocal Relations and Goodwill
+- Prioritize forming mutually beneficial connections. Engage in reciprocal behavior and do favors because you care. 
+  - Not because you have something in mind that you would like to request. 
+- Ally yourself with others who will engage in reciprocal behaviour in good will. 
+  - Exercise caution. If someone haven't earned your trust yet, assess the motivation behind any favors you receive. 
+    - Is the intention to connect, or is it to leave you indebted before making a request? If it seems like the latter, disengage. It's not worth it.
+    - Is the favor big? Refuse, or proceed with extreme caution. Disengage if there are any strings attached, however small. 
+	- Does the person has a history of gossip? Refuse, unless truly needed. 
+  - Acknowledge that you are not obligated to fulfill a request in return for a previous favor, particularly from someone you don't trust yet.  
+    - You can always reciprocate later and make up for it in a way of your choosing. Doesn't violate loyalty.
+	- A bad actor may not be happy with this. Not a big issue for someone whose aim is to connect. 
+	- However, lean towards acceptance if it's going to be a huge help to the requestor while not being a substantial cost to you. Assess risks and potential. See it as an opportunity to connect, if desirable.
+- Communicate values clearly. Express appreciation appropriately. 
+  - Don't pretend something is a huge help while it is not. Likewise, do not understate if something was truly helpful. 
+  - Do not negotiate favors. Only clarify the benefits and costs to you. 
+    - Negotiate transactions, not favors. 
+  - Never criticize a behavior that you would like to see repeated. Instead, validate and give positive feedback by expressing appreciation.  
+- Address the person directly. Do not gossip, nor bring other people in the middle of your interactions. 
+  - Likewise, do not trust or ally with someone who engage in such behavior, unless necessary.
+- Try to leave good impressions, it makes a difference.
+  - Conversely, do not aim to impress people deliberately.
+- Understand that [costly actions are effective signals](https://en.wikipedia.org/wiki/Costly_signaling_theory_in_evolutionary_psychology). 
+  - The reason is: They are difficult to fake. For example, carrying expensive jewelry works as a signal of wealth because not everyone can accept that cost. 
+  - This applies to demonstrating goodwill as well. Time, effort and shared history can function as big costs for this purpose. Similarly, the ability to handle rejections or losses gracefully can be an effective signal of goodwill. 
 
 ### 2. Happiness
 
