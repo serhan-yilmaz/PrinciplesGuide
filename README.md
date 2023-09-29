@@ -26,7 +26,8 @@ With that in mind, the first principle and a warning to follow:
 - Acknowledge that you are not responsible for other people's happiness.
 - Take responsibility for yourself and your happiness.
 - Limit altruism, do not sacrifice yourself for others.
-- Don't be selfless, do not believe others if they claim they are selfless.
+- Realize that value to self and value to others are different. Don't conflate the two.
+- Have an identity. Don't live just for others. Live for yourself first.
 
 #### Principle of Nonmaleficence
 
@@ -36,6 +37,14 @@ With that in mind, the first principle and a warning to follow:
 - (Try to) Protect those who are in need, who are harmed by others for selfish reasons. Particularly those who lack the power to protect themselves. 
   - Only if you can. Don't be a hero. See principle of self-value, you are not responsible for other people's happiness. 
   - But remember the poem: ["First they came for..."](https://en.wikipedia.org/wiki/First_they_came_...)
+
+#### Principle of Loyalty
+
+- Do not betray those who are loyal to you. 
+- Be loyal to those you trust, and aim for mutual benefit. 
+- Choose your allies well. Go for people who won't betray you but will lift you up. 
+- In return, provide support and encouragement to your allies. Lift them up. 
+- Obey the rule of reciprocity in your interactions, for as long as you wish to sustain a connection.
 
 #### Principle of Reciprocity
 
@@ -52,8 +61,9 @@ With that in mind, the first principle and a warning to follow:
 - Understand [reciprocal altruism](https://en.wikipedia.org/wiki/Reciprocal_altruism). That's the nature's way of establishing cooperation. Trust it.
 - Clarify beforehand if you will expect something back from a favor. 
   - That's a transaction. Negotiate and come to an agreement beforehand. Verbally if it is someone you trust, or by written contract. Otherwise, manage your expectations. 
+- Exercise caution and assess motivation behind any favors. 
+  - Check out [the notes on reciprocal relations and goodwill](#reciprocal-relations-and-goodwill) for further reading. 
 - When in doubt, match the other person's efforts.
-- Check out the [notes on reciprocal relations and goodwill](#reciprocal-relations-and-goodwill) for further reading. 
 
 #### Principle of Cooperation 
 
@@ -65,15 +75,7 @@ With that in mind, the first principle and a warning to follow:
     - Take initiative sometimes, and test the waters. It can pay off. 
 - Defend your interests first. Cooperate only when the interests align and the pay-off will be beneficial to both parties, in short-term or long-term.  
     - Not always for foreseeable gains. Give leeway when there is little cost to you. 
-	- Do good for the sake of doing good, sometimes. 
-
-#### Principle of Loyalty
-
-- Do not betray those who are loyal to you. 
-- Be loyal to those you trust, and aim for mutual benefit. 
-- Choose your allies well. Go for people who won't betray you but will lift you up. 
-- In return, provide support and encouragement to your allies. Lift them up. 
-- Obey the rule of reciprocity in your interactions, for as long as you wish to sustain a connection. 
+	- Do good for the sake of doing good, sometimes.  
 
 #### Principle of Authenticity
 
@@ -92,24 +94,29 @@ With that in mind, the first principle and a warning to follow:
 
 - Do not think or claim you are more important than others. 
   Everyone is important to themselves from their perspective. 
-  - Be aware that your importance to others will generally be proportional to what you can contribute to their lives. 
-  - Wish to be more important? Contribute more. 
-  - Or better yet, be important to yourself and express love. Outside validation will never be sufficient by itself anyway. 
-- Do not judge anyone, unless they harm someone. 
-  - But, always assess their potential to be a trustworthy and valuable ally. 
-  - Also, evaluate any risks involved. Don't wait for harm to come, take any necessary precautions. Extricate yourself and disconnect if necessary. Remember you are responsible for your well-being. 
-- Accept people as they are, and acknowledge you can't change them. You do not have such power, only they do. 
+  - Be aware that your importance to others will generally be proportional to what you can contribute to their lives. Wish to be more important? Contribute more. 
+  - Or better yet, have some self-esteem and be important to yourself first. Outside validation will never be sufficient by itself anyway. 
+- Do not judge anyone. But, always assess. 
+  - Assess their potential to be a trustworthy and valuable ally. 
+  - Also, evaluate any risks associated with someone. Don't wait for harm to come, take any necessary precautions. Disconnect if necessary. Remember you are responsible for your well-being. 
+- Accept people as they are and acknowledge that you can't change them. 
+  - You do not have such power, only they do. 
 - Admit your mistakes and weaknesses. Be realistic, but don't be too hard on yourself. Try to compensate any damage to others, if feasible. 
   - Similarly, respect those who admit their mistakes and offer them a chance at redemption. People that try to hide their mistakes wouldn't be great allies. 
-- Be humble. Do not believe you can cheat your way easily. People aren't stupid. In many cases, it would come back to bite you, sooner or later. 
-  - Likewise, do not approach people with an expectation of benefit. The vibe you give will reflect it. 
-  - Instead, be sincere and approach people aiming for mutual benefit, follow the principle of authenticity to form reliable alliances. 
-- Come to terms with the fact that you need other people. Can't do everything by yourself. Can't survive alone, nor live a long, fulfilling life without others. 
-  - Acknowledge your reliance on the support and cooperation with others. 
+- Do not believe you are so clever and can cheat your way easily. People aren't stupid. The vibe you give will reflect your intentions.
+  - In many cases, such deeds will come back to bite you, sooner or later. 
+  - Instead, be sincere and approach people with goodwill. Follow the principle of authenticity to form reliable alliances. 
+- Accept that you need other people. Can't do everything by yourself. 
+  - Can't survive alone, nor live a long, fulfilling life without others. 
+  - Ask for help, if needed. 
+- Avoid stereotypes. Do not make broad assumptions. 
+ - The world and people are complex. Consider everyone individually. Realize that group traits rarely explain individual differences adequately. 
+- Acknowledge that your thoughts or feelings can be incorrect. 
+ - Read about [cognitive distortions](https://en.wikipedia.org/wiki/Cognitive_distortion) and [the related notes below](#cognitive-distortions).
 
 #### Principle of Emotionality
 
-- Accept that humans behave emotionally as much as they do logically.
+- Realize that humans behave emotionally as much as they do logically.
   Learn the necessary skills to navigate both landscapes. 
 - This is multi-faceted. Consider the following: 
   - [Emotional awareness](https://en.wikipedia.org/wiki/Self-awareness) for starters. Learn to name your feelings and be aware of them. Make use of [feeling wheel](https://commons.wikimedia.org/wiki/File:The_Feeling_Wheel.png). 
@@ -123,6 +130,7 @@ With that in mind, the first principle and a warning to follow:
 - A caveat: Acknowledge, but don't believe your feelings blindly. They are quite real themselves, but not necessarily what they imply. 
   - For example, suppose you feel guilty. This doesn't necessarily mean you are guilty or made a mistake. Similarly, if you feel anxious, doesn't necessarily mean you are in danger. 
   - Negative emotions are warnings, but they can be false alarms. Use logic to discern. Try to understand the reasons behind if there is a discrepancy. 
+  - Read about [emotional_reasoning](https://en.wikipedia.org/wiki/Emotional_reasoning) for more information.
 
 #### Principle of Attachment
 
@@ -141,7 +149,7 @@ With that in mind, the first principle and a warning to follow:
 - Check out [love languages](https://en.wikipedia.org/wiki/The_Five_Love_Languages). Speak the same language. 
 
 #### Key Takeaways
-Overall, relationships can be tricky and nuanced, as they require a delicate balance. There is indeed a lot to balance. While these apply to more than relationships, heed the following in your interactions:
+Overall, relationships can be complex and nuanced, as they require a delicate balance. There is indeed a lot to balance. While these apply to more than relationships, heed the following in your interactions:
 
 ##### Principle of Balance
 - Balance being selfless and being selfish.
@@ -163,29 +171,38 @@ Overall, relationships can be tricky and nuanced, as they require a delicate bal
 #### Notes
 
 ##### Reciprocal Relations and Goodwill
-- Prioritize forming mutually beneficial connections. Engage in reciprocal behavior and do favors because you care. 
-  - Not because you have something in mind that you would like to request. 
 - Ally yourself with others who will engage in reciprocal behaviour in good will. 
-  - Exercise caution. If someone haven't earned your trust yet, assess the motivation behind any favors you receive. 
-    - Is the intention to connect, or is it to leave you indebted before making a request? If it seems like the latter, disengage. It's not worth it.
-    - Is the favor big? Refuse, or proceed with extreme caution. Disengage if there are any strings attached, however small. 
-	- Does the person has a history of gossip? Refuse, unless truly needed. 
-  - Acknowledge that you are not obligated to fulfill a request in return for a previous favor, particularly from someone you don't trust yet.  
-    - You can always reciprocate later and make up for it in a way of your choosing. Doesn't violate loyalty.
-	- A bad actor may not be happy with this. Not a big issue for someone whose aim is to connect. 
-	- However, lean towards acceptance if it's going to be a huge help to the requestor while not being a substantial cost to you. Assess risks and potential. See it as an opportunity to connect, if desirable.
+- Prioritize forming mutually beneficial connections. Engage in reciprocal behavior and do favors because you care. 
+  - Not because you have something in mind that you would like to receive. 
+- Accept favors proportional to what you are willing to give. 
+- Exercise caution. If someone haven't earned your trust yet, assess the motivation behind any favors you receive. 
+  - Is the intention to connect, or is it to leave you indebted before making a request? If it seems like the latter, disengage. It's not worth it.
+  - Is the favor big? Refuse, or proceed with extreme caution. Disengage if there are any strings attached, however small. 
+  - Does the person has a habit of gossip? Refuse, unless the favor is minor or truly needed. 
+      - Instead, start the reciprocal loop by offering a favor yourself, if you would like to connect.  
+      - Disengage, if they don't accept any favors and are only interested in offering on their terms. Their interest may lie in gaining power over you rather than to connect. 
+- Acknowledge that you are not obligated to fulfill a request in return for a previous favor, particularly from someone you don't trust yet.  
+  - You can always reciprocate later and make up for it in a way of your choosing. Doesn't violate loyalty.
+  - A bad actor may not be happy with this. Not a big issue for someone whose aim is to connect. 
+  - However, lean towards acceptance if it's going to be a huge help to the requestor while not being a substantial cost to you. Assess risks and potential. See it as an opportunity to connect, if desirable.
 - Communicate values clearly. Express appreciation appropriately. 
   - Don't pretend something is a huge help while it is not. Likewise, do not understate if something was truly helpful. 
   - Do not negotiate favors. Only clarify the benefits and costs to you. 
     - Negotiate transactions, not favors. 
   - Never criticize a behavior that you would like to see repeated. Instead, validate and give positive feedback by expressing appreciation.  
-- Address the person directly. Do not gossip, nor bring other people in the middle of your interactions. 
+- Address the person themself in your communications, particularly in conflicts. 
+  - Do not gossip, nor bring other people in the middle of your interactions. 
   - Likewise, do not trust or ally with someone who engage in such behavior, unless necessary.
 - Try to leave good impressions, it makes a difference.
-  - Conversely, do not aim to impress people deliberately.
+  - However, do not aim to impress people deliberately. That can backfire easily.
 - Understand that [costly actions are effective signals](https://en.wikipedia.org/wiki/Costly_signaling_theory_in_evolutionary_psychology). 
-  - The reason is: They are difficult to fake. For example, carrying expensive jewelry works as a signal of wealth because not everyone can accept that cost. 
-  - This applies to demonstrating goodwill as well. Time, effort and shared history can function as big costs for this purpose. Similarly, the ability to handle rejections or losses gracefully can be an effective signal of goodwill. 
+  - They are effective because: They are difficult to fake. For example, carrying expensive jewelry works as a signal of wealth because not everyone can accept that cost. 
+  - This applies to demonstrating goodwill as well. Time, effort and the resulting history can function as big costs for this purpose. Similarly, the ability to handle rejections or losses gracefully can be an effective indicator of goodwill. 
+
+#### Cognitive Distortions
+ - Do not [jump to conclusions](https://en.wikipedia.org/wiki/Jumping_to_conclusions). Realize that you can't know or predict everything. 
+ - Understand [black swan theory](https://en.wikipedia.org/wiki/Black_swan_theory) and recognize that unpredictable, singular events can occur. Avoid [black and white, "all or nothing" thinking](https://en.wikipedia.org/wiki/Splitting_(psychology)) and do not make generalized statements that are absolute. 
+   - For example, all swans are white is an absolute and unprovable statement. But, one counter-example is enough to disprove it.
 
 ### 2. Happiness
 
@@ -216,8 +233,6 @@ Take responsibility for your actions.
 -- Be kind 
 
 -- Accept them and heed their call.
-
--- Value to self and value to others is different, don't conflate the two. 
 
 -- Determine your boundaries and convey them clearly
 
