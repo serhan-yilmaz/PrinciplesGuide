@@ -26,8 +26,8 @@ With these in mind, the first principle and a warning to follow:
 - Acknowledge that you are not responsible for other people's happiness.
 - Take responsibility for yourself and your happiness.
 - Limit altruism, do not sacrifice yourself for others.
-- Realize that value to self and value to others are different. Don't conflate the two.
 - Have an identity. Don't live just for others. Live for yourself first.
+- Realize the difference between value to self and value to others. Don't conflate the two.
 
 #### Principle of Nonmaleficence
 
@@ -107,7 +107,7 @@ With these in mind, the first principle and a warning to follow:
   - Better yet, treat them how they want to be treated. When feasible. 
 - Be open with your feelings and aspirations. First, with yourself. Then, with others you trust. This is important. 
 - Express your thoughts and feelings clearly. Especially when you have a concern. Don't play it off as a joke, nor let someone else dismiss it as a joke. 
-  - Related, learn to recognize [passive-aggressive behavior](https://en.wikipedia.org/wiki/Passive-aggressive_behavior). Do not engage in such behavior, unless required. 
+  - Related, learn to recognize [passive-aggressive behavior](https://en.wikipedia.org/wiki/Passive-aggressive_behavior). Do not engage in such behavior, unless warranted. 
 - Know your limits. Be assertive in establishing your boundaries. Don't shy away from conflict if violated. But, pick your fights. Goal is to defend. Avoid unnecessary fights, especially if this is not an repeated interaction. Compromise as necessary. 
   - In trivial disputes, let the person who cares more have their way, unless there is any harm. But, do not agree what you believe to be untrue. Be true to yourself and defend what's important. 
 
