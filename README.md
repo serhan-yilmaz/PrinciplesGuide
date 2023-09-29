@@ -110,9 +110,9 @@ With that in mind, the first principle and a warning to follow:
   - Can't survive alone, nor live a long, fulfilling life without others. 
   - Ask for help, if needed. 
 - Avoid stereotypes. Do not make broad assumptions. 
- - The world and people are complex. Consider everyone individually. Realize that group traits rarely explain individual differences adequately. 
+  - The world and people are complex. Consider everyone individually. Realize that group traits rarely explain individual differences adequately. 
 - Acknowledge that your thoughts or feelings can be incorrect. 
- - Read about [cognitive distortions](https://en.wikipedia.org/wiki/Cognitive_distortion) and [the related notes below](#cognitive-distortions).
+  - Read about [cognitive distortions](https://en.wikipedia.org/wiki/Cognitive_distortion) and [the related notes below](#cognitive-distortions).
 
 #### Principle of Emotionality
 
