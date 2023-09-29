@@ -222,14 +222,14 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
   - *All or nothing thinking*: Dealing in extremes, either absolutely good or bad. 
     - Example: I was only able to get third place in the race. I am a failure. 
 	- Another example: I was on a diet, but ate chips after dinner. I fucked up. I've ruined my diet now. I am a complete failure. 
-	- However, in reality, magnitudes matter. There is an in-between. 
+	- In reality, magnitudes matter. There is an in-between. 
 - Do not [jump to conclusions](https://en.wikipedia.org/wiki/Jumping_to_conclusions). Realize that you can't know or predict everything. 
   - Acknowledge that uncertainty is everywhere in life. Avoid absolute judgements. 
   - *Mind reading*: Assuming what someone must be thinking or feeling, beyond reason. Avoid making big conclusions based on minor behaviors. Behaviors only go so far in understanding thoughts and intentions.
     - Example: I know you don’t like me. How so? You didn't invite me to lunch.
   - *Fortune-telling*: Predicting outcomes in absolute terms. 
     - Example: A depressed person believing they will never improve and nothing will ever be resolved for their whole life. 
-	- Another example: I am not studying to the exam. I am going to fail anyway. 
+	- Another example: I won't study to the exam. I am going to fail anyway. 
   - *Labeling*: Overly-reductive description of other people's characteristics.
     - Example: He didn't call me. He must be a narcissist! 
 - Be mindful of behaviors that turn into [self-fulfilling prophecies](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy). 
