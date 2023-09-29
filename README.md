@@ -72,10 +72,27 @@ With that in mind, the first principle and a warning to follow:
     - Don't ask for favors that provide little benefit to you but impose a big burden on the other person. Likewise, don't accept requests that comes with great cost to you but only a small benefit to the other person. 
 - Engage in productive exchanges. In many cases, it is easy to contribute to another person's happiness with minimal cost to yourself. 
     - Small acts of kindness can serve this purpose. 
-    - Take initiative sometimes, and test the waters. It can pay off. 
+    - Take initiative sometimes. It can pay off. 
 - Defend your interests first. Cooperate only when the interests align and the pay-off will be beneficial to both parties, in short-term or long-term.  
     - Not always for foreseeable gains. Give leeway when there is little cost to you. 
 	- Do good for the sake of doing good, sometimes.  
+
+#### Principle of Respect
+
+- Do not think or claim you are more important than others. 
+  Everyone is important to themselves from their perspective. 
+  - Be aware that your importance to others will generally be proportional to what you can contribute to their lives. Wish to be more important? Contribute more. 
+  - Or better yet, have some self-esteem and be important to yourself first. Outside validation will never be sufficient by itself anyway. 
+- Do not judge anyone. But, always assess. 
+  - Assess their potential to be a trustworthy and valuable ally. 
+  - Also, evaluate any risks associated with someone. Don't wait for harm to come, take any necessary precautions. Disconnect if necessary. Remember you are responsible for your well-being. 
+- Avoid stereotypes. Do not make broad assumptions. 
+  - The world and people are complex. Consider everyone individually. Realize that group traits rarely explain individual differences adequately. 
+- Admit your mistakes. Try to compensate any damage to others, if feasible.
+  - Similarly, respect those who admit their mistakes and offer them a chance at redemption. People that try to hide their mistakes wouldn't be great allies. 
+- Do not believe you are so clever and can cheat your way easily. People aren't stupid. The vibe you give will reflect your intentions.
+  - In many cases, selfish deeds will come back to bite you, sooner or later. 
+  - Instead, be sincere and approach people with goodwill. Follow the principle of authenticity to form reliable alliances. 
 
 #### Principle of Authenticity
 
@@ -90,29 +107,20 @@ With that in mind, the first principle and a warning to follow:
 - Express your thoughts and feelings clearly. Especially when you have a concern. Don't play it off as a joke, nor let someone else dismiss it as a joke. Be aware.
 - Know your limits. Be assertive in establishing your boundaries. Don't shy away from conflict if violated. But, pick your fights. Goal is to defend. Avoid unnecessary fights, especially if this is not an repeated interaction. Compromise as necessary. 
 
-#### Principle of Humility and Respect
-
-- Do not think or claim you are more important than others. 
-  Everyone is important to themselves from their perspective. 
-  - Be aware that your importance to others will generally be proportional to what you can contribute to their lives. Wish to be more important? Contribute more. 
-  - Or better yet, have some self-esteem and be important to yourself first. Outside validation will never be sufficient by itself anyway. 
-- Do not judge anyone. But, always assess. 
-  - Assess their potential to be a trustworthy and valuable ally. 
-  - Also, evaluate any risks associated with someone. Don't wait for harm to come, take any necessary precautions. Disconnect if necessary. Remember you are responsible for your well-being. 
+#### Principle of Acceptance
 - Accept people as they are and acknowledge that you can't change them. 
   - You do not have such power, only they do. 
-- Admit your mistakes and weaknesses. Be realistic, but don't be too hard on yourself. Try to compensate any damage to others, if feasible. 
-  - Similarly, respect those who admit their mistakes and offer them a chance at redemption. People that try to hide their mistakes wouldn't be great allies. 
-- Do not believe you are so clever and can cheat your way easily. People aren't stupid. The vibe you give will reflect your intentions.
-  - In many cases, such deeds will come back to bite you, sooner or later. 
-  - Instead, be sincere and approach people with goodwill. Follow the principle of authenticity to form reliable alliances. 
+- Be realistic. Admit your weaknesses. But, don't be too hard on yourself. 
+  - Accept what you cannot change. Prioritize what you can improve. 
 - Accept that you need other people. Can't do everything by yourself. 
   - Can't survive alone, nor live a long, fulfilling life without others. 
   - Ask for help, if needed. 
-- Avoid stereotypes. Do not make broad assumptions. 
-  - The world and people are complex. Consider everyone individually. Realize that group traits rarely explain individual differences adequately. 
-- Acknowledge that your thoughts or feelings can be incorrect. 
+- Acknowledge that your thoughts or feelings can be incorrect, not reflecting reality. 
   - Read about [cognitive distortions](https://en.wikipedia.org/wiki/Cognitive_distortion) and [the related notes below](#cognitive-distortions).
+- Realize that your power is limited and you cannot solve every problem. 
+  - Focus on what you can solve and control. Primarily your actions. 
+  - Do not get lost in group struggles and the problems of the world. 
+  - Check out [stoic philosophy](https://en.wikipedia.org/wiki/Stoicism). 
 
 #### Principle of Emotionality
 
@@ -129,8 +137,7 @@ With that in mind, the first principle and a warning to follow:
   - [Emotional validation](https://en.wikipedia.org/wiki/Emotional_validation). Learn to convey that you understand and accept other person's emotions. Relate to the situation if you can, "I would have felt the same in that situation". Realize that you do not have to condone actions.
 - A caveat: Acknowledge, but don't believe your feelings blindly. They are quite real themselves, but not necessarily what they imply. 
   - For example, suppose you feel guilty. This doesn't necessarily mean you are guilty or made a mistake. Similarly, if you feel anxious, doesn't necessarily mean you are in danger. 
-  - Negative emotions are warnings, but they can be false alarms. Use logic to discern. Try to understand the reasons behind if there is a discrepancy. 
-  - Read about [emotional_reasoning](https://en.wikipedia.org/wiki/Emotional_reasoning) for more information.
+  - Negative emotions are warnings, but they can be false alarms. Use logic to discern. Read about [emotional_reasoning](https://en.wikipedia.org/wiki/Emotional_reasoning) for more information.
 
 #### Principle of Attachment
 
@@ -266,8 +273,6 @@ Take responsibility for your actions.
 
 -- https://en.m.wikipedia.org/wiki/Dual_strategies_theory
 
--- Don't be lost in group struggles
-
 -- Don't let work define you (under happiness)
 
 -- Be kind to yourself
@@ -316,4 +321,4 @@ Take responsibility for your actions.
 
 -- Passive-aggressiveness
 
-
+-- Notes on stoic philosophy. 
