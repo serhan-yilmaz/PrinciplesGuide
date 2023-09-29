@@ -92,7 +92,7 @@ With that in mind, the first principle and a warning to follow:
   - Similarly, respect those who admit their mistakes and offer them a chance at redemption. People that try to hide their mistakes wouldn't be great allies. 
 - Do not believe you are so clever and can cheat your way easily. People aren't stupid. The vibe you give will reflect your intentions.
   - In many cases, selfish deeds will come back to bite you, sooner or later. 
-  - Instead, be sincere and approach people with goodwill. Follow the principle of authenticity to form reliable alliances. 
+  - Instead, be sincere and approach people with goodwill. Follow the principle of authenticity to form meaningful and close relationships.
 
 #### Principle of Authenticity
 
