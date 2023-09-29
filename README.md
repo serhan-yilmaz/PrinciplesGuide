@@ -80,7 +80,6 @@ With these in mind, the first principle and a warning to follow:
 
 #### Principle of Respect
 
-- Always be kind, unless otherwise warranted. Don't be an asshole without reason. 
 - Do not think or claim you are more important than others. 
   Everyone is important to themselves from their perspective. 
   - Be aware that your importance to others will generally be proportional to what you can contribute to their lives. Wish to be more important? Contribute more. 
@@ -89,7 +88,8 @@ With these in mind, the first principle and a warning to follow:
   - Assess their potential to be a trustworthy and valuable ally. 
   - Also, evaluate any risks involved with someone. Don't wait for harm to come, take any necessary precautions. Disconnect if necessary. Remember you are responsible for your well-being. 
 - Avoid stereotypes. Do not make broad assumptions. 
-  - The world and people are complex. Consider everyone individually. Realize that group traits rarely explain individual differences adequately. 
+  - The world and people are complex. Consider everyone as an individual. Realize that group traits rarely explain individual differences adequately. 
+- Always be kind, unless otherwise warranted. Don't be an asshole without reason. 
 - Admit your mistakes. Try to compensate any damage to others, if feasible.
   - Similarly, respect those who admit their mistakes and offer them a chance at redemption. People that try to hide their mistakes wouldn't be great allies. 
 - Do not believe you are so clever and can manipulate or cheat your way easily. People aren't stupid. The vibe you give will reflect your intentions.
@@ -142,8 +142,8 @@ With these in mind, the first principle and a warning to follow:
   - [Emotional validation](https://en.wikipedia.org/wiki/Emotional_validation). Learn to convey that you understand and accept other person's emotions. Relate to the situation if you can, "I would have felt the same in that situation". Realize that you do not have to condone actions.
 - A caveat: Acknowledge, but don't believe your feelings blindly. They are quite real themselves, but not necessarily what they imply. 
   - For example, suppose you feel guilty. This doesn't necessarily mean you are guilty or made a mistake. Similarly, if you feel anxious, doesn't necessarily mean you are in danger. 
-  - Negative emotions are warnings, but they can be false alarms. Use logic to discern. Read about [emotional_reasoning](https://en.wikipedia.org/wiki/Emotional_reasoning) for more information. 
-    - Example: Feeling overwhelmed. Thus, it's hopeless to even start. 
+  - Negative emotions are warnings, but they can be false alarms. Use logic to discern. Check out [emotional_reasoning](https://en.wikipedia.org/wiki/Emotional_reasoning) for more information. 
+    - Example Distortion: I feel overwhelmed. Thus, it's hopeless to even start. 
 
 #### Principle of Attachment
 
@@ -229,7 +229,7 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
     - Example: I know you don’t like me. How so? You didn't invite me to lunch.
   - *Fortune-telling*: Predicting outcomes in absolute terms. 
     - Example: A depressed person believing they will never improve and nothing will ever be resolved for their whole life. 
-	- Another example: I won't study to the exam. I am going to fail anyway. 
+	- Another example: I'll never find a job. I'll be unemployed forever.
   - *Labeling*: Overly-reductive description of other people's characteristics.
     - Example: He didn't call me. He must be a narcissist! 
 - Be mindful of behaviors that turn into [self-fulfilling prophecies](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy). 
@@ -237,7 +237,13 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
     - For example, rejection expectations can lead to [behaviors that elicit rejection from others](https://doi.org/10.1037/0022-3514.75.2.545). 
 	- They also shape your subjective experiences to a large degree. [Placebo effect](https://en.wikipedia.org/wiki/Placebo#Effects) comes to mind. 
   - Optimism and having a positive outlook help in human relations. The vibe you give to others is shaped by your perspective and mood. 
-    - Note that, faking a positive outlook doesn't help much. Believing it does. 
+    - Note that, faking doesn't necessarily help much. Believing does. 
+	- Believe that future is not written. Change it if not desirable. Exert will and take action. Focus on things that can help, one step at a time. 
+  - Examples of defeatist attitude:
+    - I won't study to the exam. I am going to fail anyway. 
+	- I can't make any friends. People don't like me. I better stay away.
+	- I'm terrible at math. I'll never understand this lesson. No use listening. 
+	- I won’t even try asking them out. They’ll definitely reject me. I'll be alone forever. 
 
 ### 2. Happiness
 
