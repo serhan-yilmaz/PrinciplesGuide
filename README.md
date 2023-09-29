@@ -6,7 +6,7 @@ The goal of this writing is to summarize a set of rules that I believe to be imp
 
 To explain my view with an analogy: Principles serve as a compass that, in a dark tunnel where the road ahead is unclear, can help find the right way out, without getting lost. So, I say do what you know to be true, and follow the compass when in doubt. 
 
-Overall, rather than prescribing morals on "what should", this is meant to be a practical guide, aiming for what is best personally and "what can help". Since I believe actions are ultimately what counts, I aimed to express the principles in the form of specific, actionable terms and included pointers for further reading and new concepts to learn. 
+Overall, rather than prescribing morals on "what should", this is meant to be a practical guide, aiming for what is best personally and "what can help". Since I believe actions are ultimately what counts, I aimed to express the principles in the form of specific, actionable terms and included pointers for further reading and important concepts to learn. 
 
 With these in mind, the first principle and a warning to follow: 
 
@@ -94,7 +94,7 @@ With these in mind, the first principle and a warning to follow:
   - Similarly, respect those who admit their mistakes and offer them a chance at redemption. People that try to hide their mistakes wouldn't be great allies. 
 - Do not believe you are so clever and can manipulate or cheat your way easily. People aren't stupid. The vibe you give will reflect your intentions.
   - In many cases, selfish deeds will come back to bite you, sooner or later. 
-  - Instead, be sincere and approach people with goodwill. Follow the principle of authenticity to form meaningful and close relationships.
+  - Instead, be sincere and approach people with goodwill. Follow the principle of authenticity to form close relationships.
 
 #### Principle of Authenticity
 
@@ -237,6 +237,7 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
     - For example, rejection expectations can lead to [behaviors that elicit rejection from others](https://doi.org/10.1037/0022-3514.75.2.545). 
 	- They also shape your subjective experiences to a large degree. [Placebo effect](https://en.wikipedia.org/wiki/Placebo#Effects) comes to mind. 
   - Optimism and having a positive outlook help in human relations. The vibe you give to others is shaped by your perspective and mood. 
+    - Note that, faking a positive outlook doesn't help much. Believing it does. 
 
 ### 2. Happiness
 
