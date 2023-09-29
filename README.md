@@ -6,7 +6,7 @@ The goal of this writing is to summarize a set of rules that I believe to be imp
 
 To explain my view with an analogy: Principles serve as a compass that, in a dark tunnel where the road ahead is unclear, can help find the right way out, without getting lost. So, I say do what you know to be true, and follow the compass when in doubt. 
 
-Overall, rather than prescribing morals on "what should", this is meant to be a practical guide, aiming for what is best personally and "what can help". Since I believe actions are ultimately what counts, I aimed to express the principles in the form of specific, actionable points. 
+Overall, rather than prescribing morals on "what should", this is meant to be a practical guide, aiming for what is best personally and "what can help". Since I believe actions are ultimately what counts, I aimed to express the principles in the form of specific, actionable terms and included pointers for further reading and new concepts to learn. 
 
 With these in mind, the first principle and a warning to follow: 
 
@@ -107,7 +107,7 @@ With these in mind, the first principle and a warning to follow:
   - Better yet, treat them how they want to be treated. When feasible. 
 - Be open with your feelings and aspirations. First, with yourself. Then, with others you trust. This is important. 
 - Express your thoughts and feelings clearly. Especially when you have a concern. Don't play it off as a joke, nor let someone else dismiss it as a joke. 
-  - Related, learn to recognize [passive-aggressive behavior](https://en.wikipedia.org/wiki/Passive-aggressive_behavior). Do not engage in such behavior, unless warranted. 
+  - Related, learn to recognize [passive-aggressive behaviors](https://en.wikipedia.org/wiki/Passive-aggressive_behavior). Do not engage in such behaviors, unless warranted. 
 - Know your limits. Be assertive in establishing your boundaries. Don't shy away from conflict if violated. But, pick your fights. Goal is to defend. Avoid unnecessary fights, especially if this is not an repeated interaction. Compromise as necessary. 
   - In trivial disputes, let the person who cares more have their way, unless there is any harm. But, do not agree what you believe to be untrue. Be true to yourself and defend what's important. 
 
@@ -116,7 +116,9 @@ With these in mind, the first principle and a warning to follow:
   - You do not have such power, only they do. 
 - Be realistic. Admit your weaknesses. But, don't be too hard on yourself. 
   - Accept what you cannot change. Prioritize what you can improve. 
-- Accept that you need other people. Can't do everything by yourself. 
+- Accept when you are wrong. It's okay to be wrong. Can't always be right.
+  - Do not attribute your self-worth to being right. So what, if you are wrong?
+- Remember that you need other people. Can't do everything by yourself. 
   - Can't survive alone, nor live a long, fulfilling life without others. 
   - Ask for help, if needed. 
 - Acknowledge that your thoughts or feelings do not always reflect reality accurately. 
@@ -140,7 +142,8 @@ With these in mind, the first principle and a warning to follow:
   - [Emotional validation](https://en.wikipedia.org/wiki/Emotional_validation). Learn to convey that you understand and accept other person's emotions. Relate to the situation if you can, "I would have felt the same in that situation". Realize that you do not have to condone actions.
 - A caveat: Acknowledge, but don't believe your feelings blindly. They are quite real themselves, but not necessarily what they imply. 
   - For example, suppose you feel guilty. This doesn't necessarily mean you are guilty or made a mistake. Similarly, if you feel anxious, doesn't necessarily mean you are in danger. 
-  - Negative emotions are warnings, but they can be false alarms. Use logic to discern. Read about [emotional_reasoning](https://en.wikipedia.org/wiki/Emotional_reasoning) for more information.
+  - Negative emotions are warnings, but they can be false alarms. Use logic to discern. Read about [emotional_reasoning](https://en.wikipedia.org/wiki/Emotional_reasoning) for more information. 
+    - Example: Feeling overwhelmed. Thus, it's hopeless to even start. 
 
 #### Principle of Attachment
 
@@ -210,9 +213,22 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
   - This applies to demonstrating goodwill as well. Time, effort and the resulting history can function as big costs for this purpose. Similarly, the ability to handle rejections or losses gracefully can be an effective indicator of goodwill. 
 
 ##### Cognitive Distortions
- - Do not [jump to conclusions](https://en.wikipedia.org/wiki/Jumping_to_conclusions). Realize that you can't know or predict everything. 
- - Understand [black swan theory](https://en.wikipedia.org/wiki/Black_swan_theory) and recognize that unpredictable, singular events can occur. Avoid [black and white, "all or nothing" thinking](https://en.wikipedia.org/wiki/Splitting_(psychology)) and do not make generalized statements that are absolute. 
-   - For example, all swans are white is an absolute and unprovable statement. But, one counter-example is enough to disprove it.
+ 
+- Understand [black swan theory](https://en.wikipedia.org/wiki/Black_swan_theory) and recognize that unpredictable, singular events can occur. Avoid [black and white, "all or nothing" thinking](https://en.wikipedia.org/wiki/Splitting_(psychology)) and do not make generalized statements that are absolute. 
+  - For example, "all swans are white" is an absolute and unprovable statement. But, one counter-example is enough to disprove it.
+- Do not [jump to conclusions](https://en.wikipedia.org/wiki/Jumping_to_conclusions). Realize that you can't know or predict everything. 
+  - Acknowledge that uncertainty is everywhere in life. Avoid absolute judgements. 
+  - *Mind reading*: Do not assume what someone must be thinking or feeling, beyond reason. Avoid making big conclusions based on minor behaviors. Behaviors only go so far in understanding thoughts and intentions.
+    - Example: I know you don’t like me. How so? You didn't invite me to lunch.
+  - *Fortune-telling*: Predicting outcomes in absolute terms. 
+    - Example: A depressed person believing they will never improve and nothing will ever be resolved for their whole life. 
+  - *Labeling*: Overgeneralizing characteristics of other people. 
+    - Example: He didn't call me. Therefore, he must be a narcissist. 
+- Be mindful of behaviors that turn into [self-fulfilling prophecies](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy). 
+  - "You create your own reality" phrase has a point. Beliefs heavily influence perception and behaviors. They can decisively affect outcomes, particularly when it comes to relationships. 
+    - For example, rejection expectations can lead to [behaviors that elicit rejection from others](https://doi.org/10.1037/0022-3514.75.2.545). 
+	- They also shape your subjective experiences to a large degree. [Placebo effect](https://en.wikipedia.org/wiki/Placebo#Effects) comes to mind. 
+  - Optimism and having a positive outlook help in human relations. The vibe you give to others is shaped by your perspective and mood. 
 
 ### 2. Happiness
 
@@ -238,11 +254,7 @@ Take responsibility for your actions.
 
 -- You don't need to impress anyone
 
--- Don't be an asshole without reason
-
 -- Accept them and heed their call.
-
--- Determine your boundaries and convey them clearly
 
 -- Principle of perspective
 
@@ -258,17 +270,15 @@ Take responsibility for your actions.
 
 -- Communication?
 
--- Be your own person
+-- Be your own person (happiness)
 
 -- Shopping cart principle
 
 -- Principle of initiation?
 
--- Cooperation is key for survival and society
+-- Cooperation is key for survival and society...
 
 -- Comparison is the thief of joy (happiness)
-
--- Focus on the things that you can control (perspective)
 
 -- Leave things better than when you received or found them
 
