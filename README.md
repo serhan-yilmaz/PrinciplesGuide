@@ -107,9 +107,10 @@ With these in mind, the first principle and a warning to follow:
   - Better yet, treat them how they want to be treated. When feasible. 
 - Be open with your feelings and aspirations. First, with yourself. Then, with others you trust. This is important. 
 - Express your thoughts and feelings clearly. Especially when you have a concern. Don't play it off as a joke, nor let someone else dismiss it as a joke. 
-  - Related, learn to recognize [passive-aggressive behaviors](https://en.wikipedia.org/wiki/Passive-aggressive_behavior). Do not engage in such behaviors, unless warranted. 
+  - Learn to recognize [passive-aggressive behaviors](https://en.wikipedia.org/wiki/Passive-aggressive_behavior). Do not engage in such behaviors, unless warranted. Learn to [communicate assertively](https://en.wikipedia.org/wiki/Assertiveness#Communication) instead.
 - Know your limits. Be assertive in establishing your boundaries. Don't shy away from conflict if violated. But, pick your fights. Goal is to defend. Avoid unnecessary fights, especially if this is not an repeated interaction. Compromise as necessary. 
   - In trivial disputes, let the person who cares more have their way, unless there is any harm. But, do not agree what you believe to be untrue. Be true to yourself and defend what's important. 
+  - Also, do not attempt to compromise if there is a breach of trust. Threats, coercion, and dishonesty are immediate violations of trust. Deal with aggression as appropriate. 
 
 #### Principle of Acceptance
 - Accept people as they are and acknowledge that you can't change them. 
@@ -223,6 +224,7 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
     - Example: I was only able to get third place in the race. I am a failure. 
 	- Another example: I was on a diet, but ate chips after dinner. I fucked up. I've ruined my diet now. I am a complete failure. 
 	- In reality, magnitudes matter. There is an in-between. 
+	- Think probabilistic, not deterministic. There is uncertainty. 
 - Do not [jump to conclusions](https://en.wikipedia.org/wiki/Jumping_to_conclusions). Realize that you can't know or predict everything. 
   - Acknowledge that uncertainty is everywhere in life. Avoid absolute judgements. 
   - *Mind reading*: Assuming what someone must be thinking or feeling, beyond reason. Avoid making big conclusions based on minor behaviors. Behaviors only go so far in understanding thoughts and intentions.
@@ -238,12 +240,14 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
 	- They also shape your subjective experiences to a large degree. [Placebo effect](https://en.wikipedia.org/wiki/Placebo#Effects) comes to mind. 
   - Optimism and having a positive outlook help in human relations. The vibe you give to others is shaped by your perspective and mood. 
     - Note that, faking doesn't necessarily help much. Believing does. 
-	- Believe that future is not written. Change it if not desirable. Exert will and take action. Focus on things that can help, one step at a time. 
-  - Examples of defeatist attitude:
+  - Believe that future is not fixed and can be changed if not desirable. Exert will and take action. Focus on things that can help, one step at a time. 
+	- You may be unsure whether you will be able to achieve your goals by trying. But, one thing is near-certain: You won't succeed if you never try. Assess pros and cons, then make your move. 
+  - Examples of defeatist attitude that turn into self-fulfilling prophecies:
     - I won't study to the exam. I am going to fail anyway. 
 	- I can't make any friends. People don't like me. I better stay away.
 	- I'm terrible at math. I'll never understand this lesson. No use listening. 
-	- I won’t even try asking them out. They’ll definitely reject me. I'll be alone forever. 
+	- I won’t even try asking out. They’ll definitely reject me. I'll be alone forever. 
+	- No one can be trusted. Must be vigilant. Better them than me.  
 
 ### 2. Happiness
 
