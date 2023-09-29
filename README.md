@@ -214,16 +214,24 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
 
 ##### Cognitive Distortions
  
-- Understand [black swan theory](https://en.wikipedia.org/wiki/Black_swan_theory) and recognize that unpredictable, singular events can occur. Avoid [black and white, "all or nothing" thinking](https://en.wikipedia.org/wiki/Splitting_(psychology)) and do not make generalized statements that are absolute. 
-  - For example, "all swans are white" is an absolute and unprovable statement. But, one counter-example is enough to disprove it.
+- Understand [black swan counter-example](https://en.wikipedia.org/wiki/Black_swan_theory) and recognize that unpredictable, singular events can occur. Avoid [black and white thinking](https://en.wikipedia.org/wiki/Splitting_(psychology)) and do not make generalized statements that are absolute. 
+  - "All swans are white" is an absolute and unprovable statement. But, one counter-example is enough to disprove it. 
+    - Thus, such statements are unlikely to be correct. Exceptions happen. 
+  - *Over-generalization*: Making sweeping conclusions based on a few events. 
+    - Example: All woman are liars, and therefore, cannot be trusted. 
+  - *All or nothing thinking*: Dealing in extremes, either absolutely good or bad. 
+    - Example: I was only able to get third place in the race. I am a failure. 
+	- Another example: I was on a diet, but ate chips after dinner. I fucked up. I've ruined my diet now. I am a complete failure. 
+	- However, in reality, magnitudes matter. There is an in-between. 
 - Do not [jump to conclusions](https://en.wikipedia.org/wiki/Jumping_to_conclusions). Realize that you can't know or predict everything. 
   - Acknowledge that uncertainty is everywhere in life. Avoid absolute judgements. 
-  - *Mind reading*: Do not assume what someone must be thinking or feeling, beyond reason. Avoid making big conclusions based on minor behaviors. Behaviors only go so far in understanding thoughts and intentions.
+  - *Mind reading*: Assuming what someone must be thinking or feeling, beyond reason. Avoid making big conclusions based on minor behaviors. Behaviors only go so far in understanding thoughts and intentions.
     - Example: I know you don’t like me. How so? You didn't invite me to lunch.
   - *Fortune-telling*: Predicting outcomes in absolute terms. 
     - Example: A depressed person believing they will never improve and nothing will ever be resolved for their whole life. 
-  - *Labeling*: Overgeneralizing characteristics of other people. 
-    - Example: He didn't call me. Therefore, he must be a narcissist. 
+	- Another example: I am not studying to the exam. I am going to fail anyway. 
+  - *Labeling*: Overly-reductive description of other people's characteristics.
+    - Example: He didn't call me. He must be a narcissist! 
 - Be mindful of behaviors that turn into [self-fulfilling prophecies](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy). 
   - "You create your own reality" phrase has a point. Beliefs heavily influence perception and behaviors. They can decisively affect outcomes, particularly when it comes to relationships. 
     - For example, rejection expectations can lead to [behaviors that elicit rejection from others](https://doi.org/10.1037/0022-3514.75.2.545). 
