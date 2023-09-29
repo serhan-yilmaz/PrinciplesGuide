@@ -199,7 +199,7 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
   - They are effective because: They are difficult to fake. For example, carrying expensive jewelry works as a signal of wealth because not everyone can accept that cost. 
   - This applies to demonstrating goodwill as well. Time, effort and the resulting history can function as big costs for this purpose. Similarly, the ability to handle rejections or losses gracefully can be an effective indicator of goodwill. 
 
-#### Cognitive Distortions
+##### Cognitive Distortions
  - Do not [jump to conclusions](https://en.wikipedia.org/wiki/Jumping_to_conclusions). Realize that you can't know or predict everything. 
  - Understand [black swan theory](https://en.wikipedia.org/wiki/Black_swan_theory) and recognize that unpredictable, singular events can occur. Avoid [black and white, "all or nothing" thinking](https://en.wikipedia.org/wiki/Splitting_(psychology)) and do not make generalized statements that are absolute. 
    - For example, all swans are white is an absolute and unprovable statement. But, one counter-example is enough to disprove it.
