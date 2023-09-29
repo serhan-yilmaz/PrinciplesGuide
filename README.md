@@ -4,11 +4,11 @@
 
 The goal of this writing is to summarize a set of rules that I believe to be important and beneficial to follow while making personal decisions. Most are obvious principles, but they are sometimes overlooked. So, I believe it is helpful to remember and repeat what's important. 
 
-To explain my view with an analogy: Principles serve as a compass that, in the absence of light and when faced with uncertainty, can help find the right way, without getting lost. So, follow the compass when in doubt. 
+To explain my view with an analogy: Principles serve as a compass that, in a dark tunnel where the road ahead is unclear, can help find the right way out, without getting lost. So, I say do what you know to be true, and follow the compass when in doubt. 
 
-Overall, this is meant to be a practical guide, aiming for what is best personally and "what can help", as opposed to prescribing morals on "what should" and what is best for the society. 
+Overall, rather than prescribing morals on "what should", this is meant to be a practical guide, aiming for what is best personally and "what can help". Since I believe actions are ultimately what counts, I aimed to express the principles in the form of specific, actionable points. 
 
-With that in mind, the first principle and a warning to follow: 
+With these in mind, the first principle and a warning to follow: 
 
 #### Principle of Advice
 
@@ -53,14 +53,15 @@ With that in mind, the first principle and a warning to follow:
   - Reciprocate when you receive a favor, if feasible. 
   - Don't be transactional. Give without an expectation to receive. Don't give when you can't afford not to receive. 
   - If your favor is not reciprocated, don't blame or demand. But also, don't repeat if the favor is costly to you. 
-    - If this happens, take it as a signal that the other party isn't interested in connecting with you. Stop the loop. 
+    - If this happens, take it as a signal that the other party isn't interested in connecting with you. So, stop the loop. 
     - Similarly, don't reciprocate if you would like to stop the loop. It doesn't have to last forever.
   - While reciprocating, aim for a favor that is equal or slightly more in magnitude than what you received. 
   - Start small to initiate the loop, and grow your way up. 
   - Ignore small variations and violations as trust builds up. 
 - Understand [reciprocal altruism](https://en.wikipedia.org/wiki/Reciprocal_altruism). That's the nature's way of establishing cooperation. Trust it.
 - Clarify beforehand if you will expect something back from a favor. 
-  - That's a transaction. Negotiate and come to an agreement beforehand. Verbally if it is someone you trust, or by written contract. Otherwise, manage your expectations. 
+  - That's a transaction. Negotiate and come to an agreement beforehand. Verbally if it is someone you trust, or by written contract. 
+  - Do not hold any previous favors you've done as leverage, particularly unsolicited. That's manipulation. Deals are negotiated beforehand.
 - Exercise caution and assess motivation behind any favors. 
   - Check out [the notes on reciprocal relations and goodwill](#reciprocal-relations-and-goodwill) for further reading. 
 - When in doubt, match the other person's efforts.
@@ -79,18 +80,19 @@ With that in mind, the first principle and a warning to follow:
 
 #### Principle of Respect
 
+- Always be kind, unless otherwise warranted. Don't be an asshole without reason. 
 - Do not think or claim you are more important than others. 
   Everyone is important to themselves from their perspective. 
   - Be aware that your importance to others will generally be proportional to what you can contribute to their lives. Wish to be more important? Contribute more. 
   - Or better yet, have some self-esteem and be important to yourself first. Outside validation will never be sufficient by itself anyway. 
 - Do not judge anyone. But, always assess. 
   - Assess their potential to be a trustworthy and valuable ally. 
-  - Also, evaluate any risks associated with someone. Don't wait for harm to come, take any necessary precautions. Disconnect if necessary. Remember you are responsible for your well-being. 
+  - Also, evaluate any risks involved with someone. Don't wait for harm to come, take any necessary precautions. Disconnect if necessary. Remember you are responsible for your well-being. 
 - Avoid stereotypes. Do not make broad assumptions. 
   - The world and people are complex. Consider everyone individually. Realize that group traits rarely explain individual differences adequately. 
 - Admit your mistakes. Try to compensate any damage to others, if feasible.
   - Similarly, respect those who admit their mistakes and offer them a chance at redemption. People that try to hide their mistakes wouldn't be great allies. 
-- Do not believe you are so clever and can cheat your way easily. People aren't stupid. The vibe you give will reflect your intentions.
+- Do not believe you are so clever and can manipulate or cheat your way easily. People aren't stupid. The vibe you give will reflect your intentions.
   - In many cases, selfish deeds will come back to bite you, sooner or later. 
   - Instead, be sincere and approach people with goodwill. Follow the principle of authenticity to form meaningful and close relationships.
 
@@ -104,8 +106,10 @@ With that in mind, the first principle and a warning to follow:
 - [Treat others how you want to be treated yourself](https://en.wikipedia.org/wiki/Golden_Rule). 
   - Better yet, treat them how they want to be treated. When feasible. 
 - Be open with your feelings and aspirations. First, with yourself. Then, with others you trust. This is important. 
-- Express your thoughts and feelings clearly. Especially when you have a concern. Don't play it off as a joke, nor let someone else dismiss it as a joke. Be aware.
+- Express your thoughts and feelings clearly. Especially when you have a concern. Don't play it off as a joke, nor let someone else dismiss it as a joke. 
+  - Related, learn to recognize [passive-aggressive behavior](https://en.wikipedia.org/wiki/Passive-aggressive_behavior). Do not engage in such behavior, unless required. 
 - Know your limits. Be assertive in establishing your boundaries. Don't shy away from conflict if violated. But, pick your fights. Goal is to defend. Avoid unnecessary fights, especially if this is not an repeated interaction. Compromise as necessary. 
+  - In trivial disputes, let the person who cares more have their way, unless there is any harm. But, do not agree what you believe to be untrue. Be true to yourself and defend what's important. 
 
 #### Principle of Acceptance
 - Accept people as they are and acknowledge that you can't change them. 
@@ -115,12 +119,11 @@ With that in mind, the first principle and a warning to follow:
 - Accept that you need other people. Can't do everything by yourself. 
   - Can't survive alone, nor live a long, fulfilling life without others. 
   - Ask for help, if needed. 
-- Acknowledge that your thoughts or feelings can be incorrect, not reflecting reality. 
-  - Read about [cognitive distortions](https://en.wikipedia.org/wiki/Cognitive_distortion) and [the related notes below](#cognitive-distortions).
+- Acknowledge that your thoughts or feelings do not always reflect reality accurately. 
+  - Learn about [cognitive distortions](https://en.wikipedia.org/wiki/Cognitive_distortion) and read [the related notes below](#cognitive-distortions).
 - Realize that your power is limited and you cannot solve every problem. 
-  - Focus on what you can solve and control. Primarily your actions. 
-  - Do not get lost in group struggles and the problems of the world. 
-  - Check out [stoic philosophy](https://en.wikipedia.org/wiki/Stoicism). 
+  - Do not get lost in group struggles and problems of the world. 
+  - Focus on what you can solve and control. Primarily your actions. Followed by your neighborhood. Check out [stoic philosophy](https://en.wikipedia.org/wiki/Stoicism). 
 
 #### Principle of Emotionality
 
@@ -237,8 +240,6 @@ Take responsibility for your actions.
 
 -- Don't be an asshole without reason
 
--- Be kind 
-
 -- Accept them and heed their call.
 
 -- Determine your boundaries and convey them clearly
@@ -322,3 +323,5 @@ Take responsibility for your actions.
 -- Passive-aggressiveness
 
 -- Notes on stoic philosophy. 
+
+-- In trivial disputes, let the person who cares more have their way, given that no harm will occur. But, be true to yourself and defend what's important. Do not agree what you believe to be untrue. 
