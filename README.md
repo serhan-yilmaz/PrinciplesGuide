@@ -300,7 +300,8 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
 #### Perspectives
 
 ##### About the meaning and purpose of life
-My take: "What's the meaning of life?" is a backwards question, and the answer is nothing definite, because: Life doesn't exist because there is any meaning or purpose. But, meaning and purpose exists because there is life. That's where everything starts. Our cognition and perspective. And even before that, our existence. 
+My take: "What's the meaning of life?" is a backwards question, and the answer is nothing definite, because: 
+- Life doesn't exist because there is any meaning or purpose. But, meaning and purpose exists because there is life. That's where everything starts. Our cognition and perspective. And even before that, our existence. 
 
 - Philosophies that defend similar ideas, and my interpretations: 
   - **Existentialism:** The life does not have a preordained meaning. Existence is what creates meaning, and that's what matters. So, live true to yourself and create your own purpose. 
