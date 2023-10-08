@@ -6,7 +6,7 @@ The goal of this writing is to summarize a set of rules that I believe to be imp
 
 To explain my view with an analogy: Principles serve as a compass that, in a dark tunnel where the road ahead is unclear, can help find the right way out, without getting lost. So, I say do what you know to be true, and follow the compass when in doubt. 
 
-Overall, rather than prescribing morals on "what should", this is meant to be a practical guide, aiming for what is best personally and "what can help". Since I believe actions are ultimately what counts, I aimed to express the principles in the form of specific, actionable terms and included pointers for further reading and important concepts to learn. 
+Overall, this is meant to be a practical guide, aiming for what is best personally and "what can help" rather than prescribing morals on "what should". Since I believe actions are ultimately what counts, I expressed the principles in the form of actionable terms, and included pointers for further concepts to learn. 
 
 With these in mind, the first principle and a warning to follow: 
 
@@ -26,8 +26,8 @@ With these in mind, the first principle and a warning to follow:
 - Acknowledge that you are not responsible for other people's happiness.
 - Take responsibility for yourself and your happiness.
 - Limit altruism, do not sacrifice yourself for others.
-- Have an identity. Don't live just for others. Live for yourself first.
-- Realize the difference between value to self and value to others. Don't conflate the two.
+- Not to say be selfish, but don't be self-less either. Have an identity. 
+- Remember your value to yourself. Don't let your value be defined by your value to others. 
 
 #### Principle of Nonmaleficence
 
@@ -61,22 +61,22 @@ With these in mind, the first principle and a warning to follow:
 - Understand [reciprocal altruism](https://en.wikipedia.org/wiki/Reciprocal_altruism). That's the nature's way of establishing cooperation. Trust it.
 - Clarify beforehand if you will expect something back from a favor. 
   - That's a transaction. Negotiate and come to an agreement beforehand. Verbally if it is someone you trust, or by written contract. 
-  - Do not hold any previous favors you've done as leverage, particularly unsolicited. That's manipulation. Deals are negotiated beforehand.
+  - Do not hold any previous favors you've done as leverage, particularly unsolicited. That would be manipulation. Deals are negotiated beforehand.
 - Exercise caution and assess motivation behind any favors. 
   - Check out [the notes on reciprocal relations and goodwill](#reciprocal-relations-and-goodwill) for further reading. 
 - When in doubt, match the other person's efforts.
 
-#### Principle of Cooperation 
+#### Principle of Cooperation
 
 - Aim to maximize mutual benefit.
-    - Key is to increase total gain by working together. 
-    - Don't ask for favors that provide little benefit to you but impose a big burden on the other person. Likewise, don't accept requests that comes with great cost to you but only a small benefit to the other person. 
+  - Key is to increase total gain by working together. 
+  - Don't ask for favors that provide little benefit to you but impose a big burden on the other person. Likewise, don't accept requests that comes with great cost to you but only a small benefit to the other person. 
 - Engage in productive exchanges. In many cases, it is easy to contribute to another person's happiness with minimal cost to yourself. 
-    - Small acts of kindness can serve this purpose. 
-    - Take initiative sometimes. It can pay off. 
+  - Small acts of kindness can serve this purpose. 
+  - Take initiative sometimes. It can pay off. 
 - Defend your interests first. Cooperate only when the interests align and the pay-off will be beneficial to both parties, in short-term or long-term.  
-    - Not always for foreseeable gains. Give leeway when there is little cost to you. 
-	- Do good for the sake of doing good, sometimes.  
+  - Not always for foreseeable gains. Give leeway when there is little cost to you. 
+  - Do good for the sake of doing good, sometimes.  
 
 #### Principle of Respect
 
@@ -112,7 +112,8 @@ With these in mind, the first principle and a warning to follow:
   - In trivial disputes, let the person who cares more have their way, unless there is any harm. But, do not agree what you believe to be untrue. Be true to yourself and defend what's important. 
   - Also, do not attempt to compromise if there is a breach of trust. Threats, coercion, and dishonesty are immediate violations of trust. Deal with aggression as appropriate. 
 
-#### Principle of Acceptance
+#### Principle of Humility
+
 - Accept people as they are and acknowledge that you can't change them. 
   - You do not have such power, only they do. 
 - Be realistic. Admit your weaknesses. But, don't be too hard on yourself. 
@@ -123,7 +124,7 @@ With these in mind, the first principle and a warning to follow:
   - Can't survive alone, nor live a long, fulfilling life without others. 
   - Ask for help, if needed. 
 - Acknowledge that your thoughts or feelings do not always reflect reality accurately. 
-  - Learn about [cognitive distortions](https://en.wikipedia.org/wiki/Cognitive_distortion) and read [the related notes below](#cognitive-distortions).
+  - Check out [cognitive distortions](https://en.wikipedia.org/wiki/Cognitive_distortion) and [the related notes below](#cognitive-distortions).
 - Realize that your power is limited and you cannot solve every problem. 
   - Do not get lost in group struggles and problems of the world. 
   - Focus on what you can solve and control. Primarily your actions. Followed by your neighborhood. Check out [stoic philosophy](https://en.wikipedia.org/wiki/Stoicism). 
@@ -149,7 +150,7 @@ With these in mind, the first principle and a warning to follow:
 #### Principle of Attachment
 
 - Be capable of accepting loss. Don't try to avoid the inevitable. 
-    - Understand [sunk cost fallacy](https://en.wikipedia.org/wiki/Sunk_cost#Fallacy_effect), and try not to fall into it. 
+  - Understand [sunk cost fallacy](https://en.wikipedia.org/wiki/Sunk_cost#Fallacy_effect), and try not to fall into it. 
 - Don't be afraid to attach, it doesn't have to be permanent. 
 - Walk away, if a relationship becomes consistently harmful or otherwise not worth it in the long run. 
 - Check out [attachment styles](https://en.m.wikipedia.org/wiki/Attachment_in_adults#Styles). 
@@ -163,9 +164,11 @@ With these in mind, the first principle and a warning to follow:
 - Check out [love languages](https://en.wikipedia.org/wiki/The_Five_Love_Languages). Speak the same language. 
 
 #### Key Takeaways
+
 Overall, relationships can be complex and nuanced, as they require a delicate balance. There is indeed a lot to balance. While these apply to more than relationships, heed the following in your interactions:
 
 ##### Principle of Balance
+
 - Balance being selfless and being selfish.
 - Balance giving and taking.
 - Balance emotionality with logic.
@@ -185,6 +188,7 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
 #### Notes
 
 ##### Reciprocal Relations and Goodwill
+
 - Ally yourself with others who will engage in reciprocal behaviour in good will. 
 - Prioritize forming mutually beneficial connections. Engage in reciprocal behavior and do favors because you care. 
   - Not because you have something in mind that you would like to receive. 
@@ -193,8 +197,8 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
   - Is the intention to connect, or is it to leave you indebted before making a request? If it seems like the latter, disengage. It's not worth it.
   - Is the favor big? Refuse, or proceed with extreme caution. Disengage if there are any strings attached, however small. 
   - Does the person has a habit of gossip? Refuse, unless the favor is minor or truly needed. 
-      - Instead, start the reciprocal loop by offering a favor yourself, if you would like to connect.  
-      - Disengage, if they don't accept any favors and are only interested in offering on their terms. Their interest may lie in gaining power over you rather than to connect. 
+    - Instead, start the reciprocal loop by offering a favor yourself, if you would like to connect.  
+    - Disengage, if they don't accept any favors and are only interested in offering on their terms. Their interest may lie in gaining power over you rather than to connect. 
 - Acknowledge that you are not obligated to fulfill a request in return for a previous favor, particularly from someone you don't trust yet.  
   - You can always reciprocate later and make up for it in a way of your choosing. Doesn't violate loyalty.
   - A bad actor may not be happy with this. Not a big issue for someone whose aim is to connect. 
@@ -214,7 +218,7 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
   - This applies to demonstrating goodwill as well. Time, effort and the resulting history can function as big costs for this purpose. Similarly, the ability to handle rejections or losses gracefully can be an effective indicator of goodwill. 
 
 ##### Cognitive Distortions
- 
+
 - Understand [black swan counter-example](https://en.wikipedia.org/wiki/Black_swan_theory) and recognize that unpredictable, singular events can occur. Avoid [black and white thinking](https://en.wikipedia.org/wiki/Splitting_(psychology)) and do not make generalized statements that are absolute. 
   - "All swans are white" is an absolute and unprovable statement. But, one counter-example is enough to disprove it. 
     - Thus, such statements are unlikely to be correct. Exceptions happen. 
@@ -222,36 +226,37 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
     - Example: All woman are liars, and therefore, cannot be trusted. 
   - *All or nothing thinking*: Dealing in extremes, either absolutely good or bad. 
     - Example: I was only able to get third place in the race. I am a failure. 
-	- Another example: I was on a diet, but ate chips after dinner. I fucked up. I've ruined my diet now. I am a complete failure. 
-	- In reality, magnitudes matter. There is an in-between. 
-	- Think probabilistic, not deterministic. There is uncertainty. 
+    - Another example: I was on a diet, but ate chips after dinner. I fucked up. I've ruined my diet now. I am a complete failure. 
+    - In reality, magnitudes matter. There is an in-between. 
+    - Think probabilistic, not deterministic. There is uncertainty. 
 - Do not [jump to conclusions](https://en.wikipedia.org/wiki/Jumping_to_conclusions). Realize that you can't know or predict everything. 
   - Acknowledge that uncertainty is everywhere in life. Avoid absolute judgements. 
   - *Mind reading*: Assuming what someone must be thinking or feeling, beyond reason. Avoid making big conclusions based on minor behaviors. Behaviors only go so far in understanding thoughts and intentions.
     - Example: I know you don’t like me. How so? You didn't invite me to lunch.
   - *Fortune-telling*: Predicting outcomes in absolute terms. 
     - Example: A depressed person believing they will never improve and nothing will ever be resolved for their whole life. 
-	- Another example: I'll never find a job. I'll be unemployed forever.
+    - Another example: I'll never find a job. I'll be unemployed forever.
   - *Labeling*: Overly-reductive description of other people's characteristics.
     - Example: He didn't call me. He must be a narcissist! 
 - Be mindful of behaviors that turn into [self-fulfilling prophecies](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy). 
   - "You create your own reality" phrase has a point. Beliefs heavily influence perception and behaviors. They can decisively affect outcomes, particularly when it comes to relationships. 
     - For example, rejection expectations can lead to [behaviors that elicit rejection from others](https://doi.org/10.1037/0022-3514.75.2.545). 
-	- They also shape your subjective experiences to a large degree. [Placebo effect](https://en.wikipedia.org/wiki/Placebo#Effects) comes to mind. 
+    - They also shape your subjective experiences to a large degree. [Placebo effect](https://en.wikipedia.org/wiki/Placebo#Effects) comes to mind. 
   - Optimism and having a positive outlook help in human relations. The vibe you give to others is shaped by your perspective and mood. 
     - Note that, faking doesn't necessarily help much. Believing does. 
   - Believe that future is not fixed and can be changed if not desirable. Exert will and take action. Focus on things that can help, one step at a time. 
-	- You may be unsure whether you will be able to achieve your goals by trying. But, one thing is near-certain: You won't succeed if you never try. Assess pros and cons, then make your move. 
+    - You may be unsure whether you will be able to achieve your goals by trying. But, one thing is near-certain: You won't succeed if you never try. Assess pros and cons, then make your move. 
   - Examples of defeatist attitude that turn into self-fulfilling prophecies:
     - I won't study to the exam. I am going to fail anyway. 
-	- I can't make any friends. People don't like me. I better stay away.
-	- I'm terrible at math. I'll never understand this lesson. No use listening. 
-	- I won’t even try asking out. They’ll definitely reject me. I'll be alone forever. 
-	- No one can be trusted. Must be vigilant. Better them than me.  
+    - I can't make any friends. People don't like me. I better stay away.
+    - I'm terrible at math. I'll never understand this lesson. No use listening. 
+    - I won’t even try asking out. They’ll definitely reject me. I'll be alone forever. 
+    - No one can be trusted. Must be vigilant. Better them than me.  
 
 ### 2. Happiness
 
 ##### Principle of Effort
+
 - Take responsibility for your happiness and well-being. 
   - As an adult, it is your responsibility. Take reins, don't take the role of a victim.  
 - Focus on what you can control. 
@@ -266,12 +271,13 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
   - Ask: What would make you proud of yourself? 
   - Check out [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs). 
     - Physiological needs first. Food, sleep, shelter and so on. 
-	- Safety needs afterwards. Personal, emotional and financial. Also, health. 
-	- Love and social needs comes next. Trust, acceptance, intimacy, sex. Friends, family, community. A sense of belonging. 
-	- Esteem needs later. Self-respect, confidence, competence. Being proud of yourself. 
-	- What comes afterwards? Living true to yourself. How does it happen? Aligning your beliefs and actions. Doing what you believe is right. Having a sense of purpose and meaning. 
-	
-##### Principle of Gratitude and Tranquility
+    - Safety needs afterwards. Personal, emotional and financial. Also, health. 
+    - Love and social needs comes next. Trust, acceptance, intimacy, sex. Friends, family, community. A sense of belonging. 
+    - Esteem needs later. Self-respect, confidence, competence. Being proud of yourself. 
+    - What comes afterwards? Living true to yourself. How does it happen? Aligning your beliefs and actions. Doing what you believe is right. Having a sense of purpose and meaning. 
+
+##### Principle of Gratitude
+
 - Learn to be content with what you have. 
   - Appreciate the good in your life. See the glass [half full](https://en.wikipedia.org/wiki/Is_the_glass_half_empty_or_half_full%3F).  
   - This doesn't mean don't be ambitious. Exercise actions you deem appropriate, but leave out the rest. Don't mull over what could or should have happened. 
@@ -290,8 +296,21 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
   - Aiming for happiness typically leads to comfort and pleasure seeking behavior. Successful in the short run, but detrimental in the long run for happiness. 
   - Paradoxically, aiming for what feels meaningful leads to behaviour that reinforce happiness in the long run. 
     - What feels meaningful is typically productive actions that involve other people, that are beneficial to others and the community. Engaging in such behavior typically results in positive feedback and improve personal satisfaction. 
-  
-  
+
+#### Perspectives
+
+##### About the meaning and purpose of life
+My take: "What's the meaning of life?" is a backwards question, and the answer is nothing definite, because: Life doesn't exist because there is any meaning or purpose. But, meaning and purpose exists because there is life. That's where everything starts. Our cognition and perspective. And even before that, our existence. 
+
+- Philosophies that defend similar ideas, and my interpretations: 
+  - **Existentialism:** The life does not have a preordained meaning. Existence is what creates meaning, and that's what matters. So, live true to yourself and create your own purpose. 
+  - **Nihilism:** Life is devoid of any objective meaning, purpose, or intrinsic value. Individuals must either accept the inherent meaninglessness of existence or define their own meaning. 
+  - **Absurdism:** Humans inherently seek meaning and purpose in life, but the universe is indifferent and inherently meaningless. So, rebel against this absurd universe by determining your own purpose and values! 
+  - **Taoism:** Do not impose external purposes. Embrace the natural flow of life. Focus on harmony and live in accordance with nature. 
+  - **Buddhism:** Anatta (not-self). There is no permanent self. Life is continuous process of change. Thus, search for a fixed purpose or identity is a source of suffering. So, let go of any attachments or desires for specific purposes and focus on inner peace. 
+  - **Stoicism:** Happiness does not depend on external circumstances. It depends on your own virtue and rationality. So, focus on what's in your control and live virtuously in accordance with the nature. In other words: Do the right thing, based on what you know about the rational world, to find contentment and purpose in life. 
+
+
 ### 3. Life and Productivity
 
 ### 4. Health
@@ -325,8 +344,6 @@ Take responsibility for your actions.
 ---> Realize that no one can predict the future reliably long term
 
 -- Aim to fullfil needs first
-
--- Be cautiously optimistic
 
 -- Communication?
 
@@ -379,8 +396,6 @@ Take responsibility for your actions.
 -- Principle of Aggression
 
 -- Wisdom is translating information into action.
-
--- Passive-aggressiveness
 
 -- Notes on stoic philosophy. 
 
