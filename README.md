@@ -4,9 +4,9 @@
 
 The goal of this writing is to summarize a set of rules that I believe to be important and beneficial to follow while making personal decisions. Most are obvious principles, but they are sometimes overlooked. So, I believe it is helpful to remember and repeat what's important. 
 
-To explain my view with an analogy: Principles serve as a compass that, in a dark tunnel where the road ahead is unclear, can help find the right way out, without getting lost. So, I say do what you know to be true, and follow the compass when in doubt. 
+To explain my view with an analogy: Principles serve as a compass that, in a dark tunnel where the road ahead is unclear, can help find the right way out, without getting lost. So, I say follow the compass when in doubt. 
 
-Overall, this is meant to be a practical guide, aiming for what is best personally and "what can help" rather than prescribing morals on "what should". Since I believe actions are ultimately what counts, I expressed the principles in the form of actionable terms, and included pointers for further concepts to learn. 
+Overall, this is meant to be a practical guide, aiming for what is best personally and "what can help" rather than prescribing morals on "what should". Since I believe actions are ultimately what counts, I expressed the principles in the form of actionable terms, with pointers for further concepts to learn. 
 
 With these in mind, the first principle and a warning to follow: 
 
@@ -27,7 +27,7 @@ With these in mind, the first principle and a warning to follow:
 - Take responsibility for yourself and your happiness.
 - Limit altruism, do not sacrifice yourself for others.
 - Not to say be selfish, but don't be self-less either. Have an identity. 
-- Remember your value to yourself. Don't let your value be defined by your value to others. 
+- Don't let your value be defined by your value to others. Remember your value to yourself. 
 
 #### Principle of Nonmaleficence
 
@@ -107,10 +107,10 @@ With these in mind, the first principle and a warning to follow:
   - Better yet, treat them how they want to be treated. When feasible. 
 - Be open with your feelings and aspirations. First, with yourself. Then, with others you trust. This is important. 
 - Express your thoughts and feelings clearly. Especially when you have a concern. Don't play it off as a joke, nor let someone else dismiss it as a joke. 
-  - Learn to recognize [passive-aggressive behaviors](https://en.wikipedia.org/wiki/Passive-aggressive_behavior). Do not engage in such behaviors, unless warranted. Learn to [communicate assertively](https://en.wikipedia.org/wiki/Assertiveness#Communication) instead.
+  - Learn to recognize [passive-aggressive behaviors](https://en.wikipedia.org/wiki/Passive-aggressive_behavior). Prefer [assertive communication](https://en.wikipedia.org/wiki/Assertiveness#Communication) over aggressive or indirect means, unless warranted otherwise. 
 - Know your limits. Be assertive in establishing your boundaries. Don't shy away from conflict if violated. But, pick your fights. Goal is to defend. Avoid unnecessary fights, especially if this is not an repeated interaction. Compromise as necessary. 
-  - In trivial disputes, let the person who cares more have their way, unless there is any harm. But, do not agree what you believe to be untrue. Be true to yourself and defend what's important. 
-  - Also, do not attempt to compromise if there is a breach of trust. Threats, coercion, and dishonesty are immediate violations of trust. Deal with aggression as appropriate. 
+  - In trivial disputes, let the person who cares more have their way, if mutually beneficial cooperation is feasible. But, do not agree what you believe to be untrue. Be true to yourself and defend what's important. 
+  - In conflicts involving repeated interactions, aim for a compromise when possible, unless there is a breach of trust. Threats, manipulation, dishonesty and alike would be immediate violations of trust. Deal with aggression as appropriate.
 
 #### Principle of Humility
 
@@ -145,7 +145,6 @@ With these in mind, the first principle and a warning to follow:
 - A caveat: Acknowledge, but don't believe your feelings blindly. They are quite real themselves, but not necessarily what they imply. 
   - For example, suppose you feel guilty. This doesn't necessarily mean you are guilty or made a mistake. Similarly, if you feel anxious, doesn't necessarily mean you are in danger. 
   - Negative emotions are warnings, but they can be false alarms. Use logic to discern. Check out [emotional_reasoning](https://en.wikipedia.org/wiki/Emotional_reasoning) for more information. 
-    - Example Distortion: I feel overwhelmed. Thus, it's hopeless to even start. 
 
 #### Principle of Attachment
 
@@ -252,6 +251,9 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
     - I'm terrible at math. I'll never understand this lesson. No use listening. 
     - I won’t even try asking out. They’ll definitely reject me. I'll be alone forever. 
     - No one can be trusted. Must be vigilant. Better them than me.  
+- [Emotional Reasoning](https://en.wikipedia.org/wiki/Emotional_reasoning): Believing emotions as facts, independent of any empirical evidence. 
+    - Example: I feel jealous, which means my partner must be unfaithful. I wouldn't feel jealous if my partner were faithful. 
+	- Another example: I feel overwhelmed. It's impossible to even start. 
 
 ### 2. Happiness
 
@@ -276,7 +278,7 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
     - Esteem needs later. Self-respect, confidence, competence. Being proud of yourself. 
     - What comes afterwards? Living true to yourself. How does it happen? Aligning your beliefs and actions. Doing what you believe is right. Having a sense of purpose and meaning. 
 
-##### Principle of Gratitude
+##### Principle of Serenity
 
 - Learn to be content with what you have. 
   - Appreciate the good in your life. See the glass [half full](https://en.wikipedia.org/wiki/Is_the_glass_half_empty_or_half_full%3F).  
@@ -291,7 +293,7 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
   - Don't forget the future and the long term. But also, don't forget there is an end. Be open to trying new things and explore.   
   - Enjoy the process. Do the things you want to do while you can. 
   - Stop to smell the roses along the way. 
-  - Work to live. Don't let work define you. 
+  - Don't let work define you. 
 - Aim for a meaningful life, not for happiness.
   - Aiming for happiness typically leads to comfort and pleasure seeking behavior. Successful in the short run, but detrimental in the long run for happiness. 
   - Paradoxically, aiming for what feels meaningful leads to behaviour that reinforce happiness in the long run. 
@@ -304,12 +306,12 @@ My take: "What's the meaning of life?" is a backwards question, and the answer i
 - Life doesn't exist because there is any meaning or purpose. But, meaning and purpose exists because there is life. That's where everything starts. Our cognition and perspective. And even before that, our existence. 
 
 - Philosophies that defend similar ideas, and my interpretations: 
-  - **Existentialism:** The life does not have a preordained meaning. Existence is what creates meaning, and that's what matters. So, live true to yourself and create your own purpose. 
-  - **Nihilism:** Life is devoid of any objective meaning, purpose, or intrinsic value. Individuals must either accept the inherent meaninglessness of existence or define their own meaning. 
-  - **Absurdism:** Humans inherently seek meaning and purpose in life, but the universe is indifferent and inherently meaningless. So, rebel against this absurd universe by determining your own purpose and values! 
-  - **Taoism:** Do not impose external purposes. Embrace the natural flow of life. Focus on harmony and live in accordance with nature. 
-  - **Buddhism:** Anatta (not-self). There is no permanent self. Life is continuous process of change. Thus, search for a fixed purpose or identity is a source of suffering. So, let go of any attachments or desires for specific purposes and focus on inner peace. 
-  - **Stoicism:** Happiness does not depend on external circumstances. It depends on your own virtue and rationality. So, focus on what's in your control and live virtuously in accordance with the nature. In other words: Do the right thing, based on what you know about the rational world, to find contentment and purpose in life. 
+  - [**Existentialism:**](https://en.wikipedia.org/wiki/Existentialism) The life does not have a preordained meaning. Existence is what creates meaning, and that's what matters. So, live true to yourself and create your own purpose. 
+  - [**Nihilism:**](https://en.wikipedia.org/wiki/Nihilism) Life is devoid of any objective meaning, purpose, or intrinsic value. Individuals must either accept the inherent meaninglessness of existence or define their own meaning. 
+  - [**Absurdism:**](https://en.wikipedia.org/wiki/Absurdism) Humans inherently seek meaning and purpose in life, but the universe is indifferent and inherently meaningless. So, rebel against this absurd universe by determining your own purpose and values! 
+  - [**Taoism:**](https://en.wikipedia.org/wiki/Taoism) Do not impose external purposes. Embrace the natural flow of life. Focus on harmony and live in accordance with nature. 
+  - [**Buddhism:**](https://en.wikipedia.org/wiki/Buddhist_philosophy) Concept of [Anatta (not-self)](https://en.wikipedia.org/wiki/Anatt%C4%81). There is no permanent self. Life is continuous process of change. Thus, search for a fixed purpose or identity is a source of suffering. So, let go of any attachments or desires for specific purposes and focus on inner peace. 
+  - [**Stoicism:**](https://en.wikipedia.org/wiki/Stoicism) Happiness does not depend on external circumstances. It depends on your own virtue and rationality. So, focus on what's in your control and live virtuously in accordance with the nature. In other words: Do the right thing, based on what you know about the rational world, to find contentment and purpose in life. 
 
 
 ### 3. Life and Productivity
