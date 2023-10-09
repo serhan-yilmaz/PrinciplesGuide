@@ -305,7 +305,8 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
 
 ##### About the meaning and purpose of life
 My take: "What's the meaning of life?" is a backwards question, and the answer is nothing definite, because: 
-- Life doesn't exist because there is any meaning or purpose. But, meaning and purpose exists because there is life. That's where everything starts. Our cognition and perspective. And even before that, our existence. 
+- Life doesn't exist because there is any meaning or purpose. But, meaning and purpose exists because there is life. That's where everything starts. 
+  - Our cognition and perspective is what attributes meaning to the external world. This makes our existence valuable to ourselves in a way that anything external can possibly hope not. I mean, if you lose that consciousness, what even remains there to discuss? 
 
 - Philosophies that defend similar ideas, and my interpretations: 
   - [**Existentialism:**](https://en.wikipedia.org/wiki/Existentialism) The life does not have a preordained meaning. Existence is what creates meaning, and that's what matters. So, live true to yourself and create your own purpose. 
@@ -347,8 +348,6 @@ Take responsibility for your actions.
 ---> Don't assume what you believe necessarily reflects the reality
 
 ---> Realize that no one can predict the future reliably long term
-
--- Aim to fullfil needs first
 
 -- Communication?
 
@@ -397,8 +396,6 @@ Take responsibility for your actions.
 -- Goals, divide steps into actionable items.  
 
 -- Assertiveness
-
--- Principle of Aggression
 
 -- Wisdom is translating information into action.
 
