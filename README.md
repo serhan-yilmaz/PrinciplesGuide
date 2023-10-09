@@ -161,6 +161,7 @@ With these in mind, the first principle and a warning to follow:
 - Don't underestimate the effect of mentality, emotionality, and power dynamics.
 - Don't assume porn and erotica reflect reality.
 - Check out [love languages](https://en.wikipedia.org/wiki/The_Five_Love_Languages). Speak the same language. 
+  1) Words of affirmation and compliments, 2) Quality time, 3) Acts of service, 4) Physical touch, and 5) Gifts. 
 
 #### Key Takeaways
 
