@@ -316,6 +316,15 @@ My take: "What's the meaning of life?" is a backwards question, and the answer i
   - [**Buddhism:**](https://en.wikipedia.org/wiki/Buddhist_philosophy) Concept of [Anatta (not-self)](https://en.wikipedia.org/wiki/Anatt%C4%81). There is no permanent self. Life is continuous process of change. Thus, search for a fixed purpose or identity is a source of suffering. So, let go of any attachments or desires for specific purposes and focus on inner peace. 
   - [**Stoicism:**](https://en.wikipedia.org/wiki/Stoicism) Happiness does not depend on external circumstances. It depends on your own virtue and rationality. So, focus on what's in your control and live virtuously in accordance with the nature. In other words: Do the right thing, based on what you know about the rational world, to find contentment and purpose in life. 
 
+##### About wisdom and intelligence
+Here is my perspective on the importance of wisdom in broader picture:
+  - *Observation* is the process of learning, and collecting data. 
+  - *Intelligence* is transforming data into knowledge. 
+  - *Wisdom* is translating knowledge into appropriate actions, often in the face of uncertainty. 
+  - What remains after is executing these actions. 
+
+All steps are important in the end, a chain is only as strong as its weakest link. 
+
 
 ### 3. Life and Productivity
 
