@@ -124,6 +124,7 @@ With these in mind, the first principle and a warning to follow:
   - Can't survive alone, nor live a long, fulfilling life without others. 
   - Ask for help, if needed. 
 - Acknowledge that your thoughts or feelings do not always reflect reality accurately. 
+  - Admit that you can't know or predict everything. Uncertainty is everywhere in life. Avoid absolute judgements. 
   - Check out [cognitive distortions](https://en.wikipedia.org/wiki/Cognitive_distortion) and [the related notes below](#cognitive-distortions).
 - Realize that your power is limited and you cannot solve every problem. 
   - Do not get lost in group struggles and problems of the world. 
