@@ -283,7 +283,7 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
 
 - Learn to be content with what you have. 
   - Limit wants. Wants have no end if left unbounded, since it is human desire to always want more. Aim to understand why do you want what you want. What do you truly desire?
-  - This doesn't mean don't be ambitious. Exercise actions you deem appropriate, but leave out the rest. Don't mull over what could or should have happened. 
+  - This doesn't mean don't be ambitious. Quite the contrary. Exercise actions you deem appropriate, but leave out the rest. Don't mull over what could or should have happened. 
   - Don't compare yourself with others. Comparison is a thief of joy. 
 - Be cautiously optimistic. 
   - Appreciate the good in your life. See the glass [half full](https://en.wikipedia.org/wiki/Is_the_glass_half_empty_or_half_full%3F).  
@@ -320,10 +320,10 @@ Here is my perspective on the importance of wisdom in broader picture:
   - *Wisdom* is translating knowledge into appropriate actions, often in the face of uncertainty. 
   - What remains after is executing these actions. 
 
-All steps are important in the end, a chain is only as strong as its weakest link. That being said, to make sure that you truly understand a topic or information, aim to translate it into actions, answering: 
-  - So what? What does this mean? What can I do with this information? 
-  
-Only then, it will be a relevant piece of information, serving a purpose.
+All steps are important in the end, since a chain is only as strong as its weakest link. That being said, to make sure that you truly understand a topic or information, aim to translate it into actions, answering: 
+  - So what? What does this mean? What am I supposed to do with this information? 
+
+Without that, knowledge is just a dry description of reality, barely relevant.  
 
 ##### About Self-Actualization - Last step in Mazlov's hierarchy of needs
 According to Mazlov, [self-actualization](https://en.wikipedia.org/wiki/Self-actualization) is the highest step where personal potential is fully realized after other bodily and ego needs are fulfilled. It is commonly interpreted as "the full realization of one's potential" or of one's "true self", and is associated with a person who is living creatively, autonomously, and spontaneously. 
@@ -340,7 +340,40 @@ The answer will likely be a mixture of the two. Awareness and being honest with 
 
 **To summarize my opinion**: For someone to be content with themselves, their beliefs and actions need to be aligned so that they can be proud of themselves. Believing that you are important and worth being happy is vital. If you believe that everyone is important to themselves, thus worth being happy, this can make it easier for you to believe you are worthy as well. Being non-judgemental helps, though I don't consider this general belief to be necessary in all cases for everyone. 
 
-A related concept to this is [cognitive dissonance in psychology](https://en.wikipedia.org/wiki/Cognitive_dissonance). See the discussion below for more information.
+Some related concepts to this are [cognitive dissonance in psychology](https://en.wikipedia.org/wiki/Cognitive_dissonance) and lowering expectations of future. See the discussions below for more information.
+
+##### About Cognitive Dissonance
+Cognitive Dissonance is a type of psychological stress that happens when the beliefs and actions, or rather the external world, are not aligned. Since this is a mentally taxing situation, the mind wants to resolve this situation in any way possible. Thus, a common response is [rationalization](https://en.wikipedia.org/wiki/Rationalization_(psychology)), or in other words: "Believe what you do is right" (the first option in the previous discussion).
+ 
+In practice, rationalization can cause issues and can even be pathological, or otherwise not be beneficial. However, that is not my point here. My point is: This is a stressful situation. Alignment of the mind and external world is critical. This alignment is necessary to be content and to be at peace. 
+
+That's why I consider it a useful practice to go over the internal beliefs, questioning them or aligning them with the external events and the reality. 
+
+##### About lowering expectations and living in the moment
+This concept is about: Having no or low expectations. More specifically, keeping your beliefs regarding the future minimal. This idea is particularly prominent in Buddhist and Stoic philosophies, as far as I know. 
+
+In general, the fewer and more flexible the beliefs are regarding the outer world and the future (while acknowledging any uncertainties), the easier it will be to align them with external events and be at peace. I believe this is the true importance of having an open mind. Thinking rigidly in terms of shoulds and musts, regarding how the world is supposed to function, is not beneficial in many circumstances. 
+
+Though of course, I'd also say: Do what needs to be done, to achieve fulfillment. This minimalism of low expectations is not an argument against ambitious actions. I just say: Keep your beliefs, regarding how the external world and other people should behave, simple and open-ended. Respond and behave in line with your internal beliefs, aiming to keep yourself and internal peace safe. 
+
+This idea is closely related to [Carpe diem (seize the day)](https://en.wikipedia.org/wiki/Carpe_diem) and living in the moment. Philosophies that teach similar ideas, and my interpretations: 
+- [**Stoicism:**](https://en.wikipedia.org/wiki/Stoicism) Live in the present moment and focus on what is within your control. 
+- [**Buddhism:**](https://en.wikipedia.org/wiki/Buddhist_philosophy) Live and experience the present moment. Life is like a river, ever-changing. Nothing is permanent, so do not get overly attached. 
+- [**Taoism:**](https://en.wikipedia.org/wiki/Taoism) Concept of [Wu Wei (effortless action)](https://en.wikipedia.org/wiki/Wu_wei). Go with the flow, as in do not disregard the flow of the universe. Allow actions to unfold naturally. Let go of the desire to control everything. Let go and find peace. 
+- [**Hinduism**:](https://en.wikipedia.org/wiki/Hindu_philosophy) Concept of [Nishkama Karma (detached action)](https://en.wikipedia.org/wiki/Nishkama_Karma). Perform your duties without being attached to the fruits of your actions. So, focus on the present moment without being overly concerned with the future. 
+- [**Existentialism:**](https://en.wikipedia.org/wiki/Existentialism) Embrace the uncertainty of the future and the unknown, rather than relying on fixed beliefs or predetermined destinies. Enjoy the freedom!
+- [**Modern mindfulness**](https://en.wikipedia.org/wiki/Mindfulness): Live and stay in the present. Observe the thoughts and feelings without judgment. 
+
+##### About ikigai and having a sense of purpose
+**My take:** Having a sense of purpose is important to be content in life. However, this purpose doesn't have to be grandiose. Purposelessness can be a purpose itself. As in, the purpose is to be existing or to be happy. That can be the main internal belief and can work fine, as long as you live in accordance that belief, and satisfy it. 
+
+The issue with happiness being the core belief or purpose is that: Happiness is an internal state, an emotion, thus it is unrealistic to expect to be happy all the time. Keeping this expectation at a reasonable level can be important. Besides that, I don't see any issue with existence being the sole purpose. 
+
+**Practical framework for ikigai:** The intersection of four elements: (1) What you love, (2) what you are good at, (3) what the world needs, and (4) what you can be paid for.
+
+While the above framework is helpful in practice (since money and jobs are necessary in life under normal circumstances), in general, I do not believe this purpose have to be something specific, constant or explicitly defined. Spontaneous living and tackling a variety of interests can be perfectly fine too. 
+
+The key is to have something to look forward to. 
 
 ### 3. Life and Productivity
 
@@ -407,8 +440,6 @@ Take responsibility for your actions.
 -- Russell's teapot
 
 -- Your perception is your reality, but not necessarily the objective reality.
-
--- Hierarchy of human needs
 
 -- Don't suppress, accept. They are messengers,
 
