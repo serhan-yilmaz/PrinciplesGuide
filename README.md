@@ -320,7 +320,10 @@ Here is my perspective on the importance of wisdom in broader picture:
   - *Wisdom* is translating knowledge into appropriate actions, often in the face of uncertainty. 
   - What remains after is executing these actions. 
 
-All steps are important in the end, a chain is only as strong as its weakest link. 
+All steps are important in the end, a chain is only as strong as its weakest link. That being said, to make sure that you truly understand a topic or information, aim to translate it into actions, answering: 
+  - So what? What does this mean? What can I do with this information? 
+  
+Only then, it will be a relevant piece of information, serving a purpose.
 
 ##### About Self-Actualization - Last step in Mazlov's hierarchy of needs
 According to Mazlov, [self-actualization](https://en.wikipedia.org/wiki/Self-actualization) is the highest step where personal potential is fully realized after other bodily and ego needs are fulfilled. It is commonly interpreted as "the full realization of one's potential" or of one's "true self", and is associated with a person who is living creatively, autonomously, and spontaneously. 
