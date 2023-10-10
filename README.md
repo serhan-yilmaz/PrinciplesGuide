@@ -285,9 +285,9 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
   - This doesn't mean don't be ambitious. Quite the contrary. Exercise actions you deem appropriate, but leave out the rest. Don't mull over what could or should have happened. 
   - Don't compare yourself with others. Comparison is a thief of joy. 
 - Be cautiously optimistic. 
+  - In essence, hope for the best and prepare for the worst. 
+  - Be realistic, don't neglect to take precautions. But, stay optimistic afterwards. Believe that it is going to be okay, one way or another. Don't worry too much, especially for things out of your control. 
   - Appreciate the good in your life. See the glass [half full](https://en.wikipedia.org/wiki/Is_the_glass_half_empty_or_half_full%3F).  
-  - Hope for the best and prepare for the worst. 
-  - Be realistic, don't neglect to take precautions. But, hope for the best afterwards. Believe that it is going to be okay, one way or another. Don't worry too much, especially for things out of your control. 
 - Don't take yourself or life so seriously. 
   - A little humor goes a long way. Life is too short to worry too much. 
   - Don't forget the future and the long term. But also, don't forget there is an end. Be open to trying new things and explore.   
@@ -471,3 +471,5 @@ Take responsibility for your actions.
 -- Notes on stoic philosophy. 
 
 -- Intermediate vs Intrinsic goals 
+
+-- Principle of Purpose (happiness)
