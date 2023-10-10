@@ -291,8 +291,8 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
 - Don't take yourself or life so seriously. 
   - A little humor goes a long way. Life is too short to worry too much. 
   - Don't forget the future and the long term. But also, don't forget there is an end. Be open to trying new things and explore.   
-  - Enjoy the process. Do the things you want to do while you can. Stop to smell the roses along the way. 
-  - Don't let work define you. It is only a part, a means for a purpose. 
+  - Enjoy the process. Do the things you want to do while you can. Appreciate beauty. Stop to smell the roses along the way. 
+  - Don't let work define you. View it as a part, a means for a purpose. 
 - Aim for a meaningful life, not for happiness.
   - Aiming for happiness typically leads to comfort and pleasure seeking behavior. Successful in the short run, but detrimental in the long run for happiness. 
   - Paradoxically, aiming for what feels meaningful leads to behaviour that reinforce happiness in the long run. 
@@ -435,8 +435,6 @@ Take responsibility for your actions.
 
 -- Occam's razor principle, choose the simpliest explanation to believe among all possible answers
 
--- Don't believe your impressions are necessarily true and reflects reality. 
-
 -- Russell's teapot
 
 -- Your perception is your reality, but not necessarily the objective reality.
@@ -453,8 +451,6 @@ Take responsibility for your actions.
 
 -- Assertiveness
 
--- Wisdom is translating information into action.
-
 -- Notes on stoic philosophy. 
 
--- In trivial disputes, let the person who cares more have their way, given that no harm will occur. But, be true to yourself and defend what's important. Do not agree what you believe to be untrue. 
+-- Intermediate vs Intrinsic goals 
