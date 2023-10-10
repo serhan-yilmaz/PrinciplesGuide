@@ -356,7 +356,7 @@ In general, the fewer and more flexible the beliefs are regarding the outer worl
 
 Though of course, I'd also say: Do what needs to be done, to achieve fulfillment. This minimalism of low expectations is not an argument against ambitious actions. I just say: Keep your beliefs, regarding how the external world and other people should behave, simple and open-ended. Respond and behave in line with your internal beliefs, aiming to keep yourself and internal peace safe. 
 
-This idea is closely related to [Carpe diem (seize the day)](https://en.wikipedia.org/wiki/Carpe_diem) and living in the moment. Philosophies that teach similar ideas, and my interpretations: 
+This idea is also closely related to [Carpe diem (seize the day)](https://en.wikipedia.org/wiki/Carpe_diem) and living in the moment. Philosophies that teach similar ideas, and my interpretations: 
 - [**Stoicism:**](https://en.wikipedia.org/wiki/Stoicism) Live in the present moment and focus on what is within your control. 
 - [**Buddhism:**](https://en.wikipedia.org/wiki/Buddhist_philosophy) Live and experience the present moment. Life is like a river, ever-changing. Nothing is permanent, so do not get overly attached. 
 - [**Taoism:**](https://en.wikipedia.org/wiki/Taoism) Concept of [Wu Wei (effortless action)](https://en.wikipedia.org/wiki/Wu_wei). Go with the flow, as in do not disregard the flow of the universe. Allow actions to unfold naturally. Let go of the desire to control everything. Let go and find peace. 
