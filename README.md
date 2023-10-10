@@ -266,8 +266,7 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
 - Focus on what you can control. 
   - Focus on what's ahead and what you can change. Don't get stuck living in the past. 
   - Leave out what you cannot control. Make peace with them. No one is omnipotent. 
-  - Don't take responsibility for events out of your control. Take responsibility for what you can influence. 
-  - This is the essence of stoic philosophy. 
+  - Don't take responsibility for events out of your control. Take responsibility for what you can influence. This is the essence of stoic philosophy. 
 - Take action. Do what you need to do. 
   - Fulfill your needs first. Ensure your safety. 
   - Take care of your health and physical well-being. Also, mental health. 
@@ -283,19 +282,17 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
 ##### Principle of Serenity
 
 - Learn to be content with what you have. 
-  - Appreciate the good in your life. See the glass [half full](https://en.wikipedia.org/wiki/Is_the_glass_half_empty_or_half_full%3F).  
+  - Limit wants. Wants have no end if left unbounded, since it is human desire to always want more. Aim to understand why do you want what you want. What do you truly desire?
   - This doesn't mean don't be ambitious. Exercise actions you deem appropriate, but leave out the rest. Don't mull over what could or should have happened. 
-  - Limit wants. Wants have no end if left unbounded. It is human desire to always want more. 
-    - Aim to understand why do you want what you want. What do you truly desire?
   - Don't compare yourself with others. Comparison is a thief of joy. 
 - Be cautiously optimistic. 
-  - Be realistic, take precautions. But, hope for the best afterwards. Don't worry too much, especially for things out of your control. 
+  - Appreciate the good in your life. See the glass [half full](https://en.wikipedia.org/wiki/Is_the_glass_half_empty_or_half_full%3F).  
+  - Be realistic, don't neglect to take precautions. But, hope for the best afterwards. Believe that it is going to be okay, one way or another. Don't worry too much, especially for things out of your control. 
 - Don't take yourself or life so seriously. 
   - A little humor goes a long way. Life is too short to worry too much. 
   - Don't forget the future and the long term. But also, don't forget there is an end. Be open to trying new things and explore.   
-  - Enjoy the process. Do the things you want to do while you can. 
-  - Stop to smell the roses along the way. 
-  - Don't let work define you. 
+  - Enjoy the process. Do the things you want to do while you can. Stop to smell the roses along the way. 
+  - Don't let work define you. It is only a part, a means for a purpose. 
 - Aim for a meaningful life, not for happiness.
   - Aiming for happiness typically leads to comfort and pleasure seeking behavior. Successful in the short run, but detrimental in the long run for happiness. 
   - Paradoxically, aiming for what feels meaningful leads to behaviour that reinforce happiness in the long run. 
@@ -325,6 +322,22 @@ Here is my perspective on the importance of wisdom in broader picture:
 
 All steps are important in the end, a chain is only as strong as its weakest link. 
 
+##### About Self-Actualization - Last step in Mazlov's hierarchy of needs
+According to Mazlov, [self-actualization](https://en.wikipedia.org/wiki/Self-actualization) is the highest step where personal potential is fully realized after other bodily and ego needs are fulfilled. It is commonly interpreted as "the full realization of one's potential" or of one's "true self", and is associated with a person who is living creatively, autonomously, and spontaneously. 
+
+**My perspective**: I am not convinced about the importance of self-actualization in the form described by Mazlov. Or rather, about whether search for any external activities, creativity or "passion" is truly necessary. Nevertheless, I believe a sense of purpose is required to be content and to feel that life is worth living, whatever that purpose may be. This concept is called [Ikigai](https://en.wikipedia.org/wiki/Ikigai) in Japanese culture, meaning 'a reason for being'. 
+
+In my opinion, the answer lies in beliefs. The key to achieve this last step of fulfillment, after the other needs, is to behave in a way that is consistent with what you believe to be true, so that you can enjoy life and be proud of yourself.
+
+In general, there are two ways this can happen: 
+- Believe what you do is right. 
+- Do what you believe is right. 
+
+The answer will likely be a mixture of the two. Awareness and being honest with yourself is important for that purpose. Note that, a conscious thought is not necessarily an internal belief. Just like, saying something out loud doesn't necessarily make it true. So, this discussion is about internal beliefs, whether they are conscious or not. 
+
+**To summarize my opinion**: For someone to be content with themselves, their beliefs and actions need to be aligned so that they can be proud of themselves. Believing that you are important and worth being happy is vital. If you believe that everyone is important to themselves, thus worth being happy, this can make it easier for you to believe you are worthy as well. Being non-judgemental helps, though I don't consider this general belief to be necessary in all cases for everyone. 
+
+A related concept to this is [cognitive dissonance in psychology](https://en.wikipedia.org/wiki/Cognitive_dissonance). See the discussion below for more information.
 
 ### 3. Life and Productivity
 
