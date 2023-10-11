@@ -17,7 +17,7 @@ With these in mind, the first principle and a warning to follow:
 - But, don't ignore what is obvious. If everywhere smells shit, look under your shoe. 
 - Most importantly, live and be true to yourself.
 
-#### Outline
+### Outline
 
 - [Preface](relationships.md)
   - Principle of Advice
