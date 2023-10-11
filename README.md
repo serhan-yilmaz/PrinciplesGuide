@@ -17,7 +17,38 @@ With these in mind, the first principle and a warning to follow:
 - But, don't ignore what is obvious. If everywhere smells shit, look under your shoe. 
 - Most importantly, live and be true to yourself.
 
-### Outline
+#### Outline
 
-#### [Relationships](relationships)
-
+- [Preface](relationships.md)
+  - Principle of Advice
+- 1\. [Relationships](relationships.md)
+  - Principle of Self-Value
+  - Principle of Nonmaleficence
+  - Principle of Loyalty
+  - Principle of Reciprocity
+  - Principle of Cooperation
+  - Principle of Respect
+  - Principle of Authenticity
+  - Principle of Humility
+  - Principle of Emotionality
+  - Principle of Attachment
+  - Principle of Intimacy
+  - Key Takeaways
+    - Principle of Balance
+  - [Additional Notes](relationships_notes.md)
+    - Reciprocal Relations and Goodwill
+	- Cognitive Distortions
+- 2\. [Happiness](happiness.md)
+  - Principle of Effort
+  - Principle of Serenity
+  - Principle of Purpose
+  - [Perspectives](happiness_perspectives.md)
+    - About the meaning and purpose of life
+	- About wisdom and intelligence
+	- About Self-Actualization - Last step in Mazlov's hierarchy of needs
+	- About Cognitive Dissonance
+	- About lowering expectations and living in the moment
+	- About ikigai and having a sense of purpose
+- 3\. Life and Productivity
+- 4\. Health
+- [Miscellaneous](remaining.md)  
