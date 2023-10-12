@@ -1,6 +1,7 @@
 ## Compendium of Life Principles: How to live a satisfying life and form meaningful relationships?
 
-In online book format: https://serhan-yilmaz.github.io/principlesguide/
+### Online Book Format
+Link: https://serhan-yilmaz.github.io/principlesguide/
 
 ### Preface
 
