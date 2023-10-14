@@ -1,5 +1,8 @@
 ## Compendium of Life Principles: How to live a satisfying life and form meaningful relationships?
 
+### Online Book Format
+Link: https://serhan-yilmaz.github.io/principlesguide/
+
 ### Preface
 
 The goal of this writing is to summarize a set of rules that I believe to be important and beneficial to follow while making personal decisions. Most are obvious principles, but they are sometimes overlooked. So, I believe it is helpful to remember and repeat what's important. 
