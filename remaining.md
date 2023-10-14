@@ -81,3 +81,11 @@ Take responsibility for your actions.
 -- Intermediate vs Intrinsic goals 
 
 -- Principle of Purpose (happiness)
+
+-- Long term is not forever. 
+
+-- Principle of Stimulation?
+
+-- This is an emotional mechanism, not a logical one. Check out the related notes. (reciprocal altruism)
+
+-- Hard to know what you don't know (about explore new things) 

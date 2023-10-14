@@ -1,8 +1,6 @@
-## Compendium of Life Principles: How to live a satisfying life and form meaningful relationships?
+# Happiness
 
-### 2. Happiness
-
-##### Principle of Effort
+## Principle of Effort
 
 - Take responsibility for your happiness and well-being. 
   - As an adult, it is your responsibility. Take reins, don't take the role of a victim.  
@@ -21,7 +19,7 @@
   - Esteem needs later. Self-respect, confidence, competence. Being proud of yourself. 
   - What comes afterwards? Living true to yourself. How does it happen? Aligning your beliefs and actions. Doing what you believe is right. Having a sense of purpose and meaning. 
 
-##### Principle of Serenity
+## Principle of Serenity
 
 - Learn to be content with what you have. 
   - Limit wants. Wants have no end if left unbounded, since it is human desire to always want more. Aim to understand why do you want what you want. What do you truly desire?
@@ -36,7 +34,7 @@
   - Stop to smell the roses along the way. Appreciate beauty.
   - Don't let work define you. View it as a part, a means for a purpose. 
 
-##### Principle of Purpose
+## Principle of Purpose
 - Focus on the process, not outcome. 
   - Life is not a race, don't rush till the end. Grand finale is already determined from the beginning: Your life will come to an end. 
   - Don't forget the future and the long term. But also, don't forget there is an end. Do the things you want to do while you can.
@@ -53,9 +51,9 @@
 - Deal with reality, and accept it. Describe and understand how things happen. Do not assert how things are supposed to happen. 
   - Learn to distinguish fantasy from reality, opinion from fact, impressions from knowledge. Acknowledge subjectivity in life.  
 
-#### Perspectives
+## Perspectives
 
-##### About the meaning and purpose of life
+### About the meaning and purpose of life
 
 My take: "What's the meaning of life?" is a backwards question, and the answer is nothing definite, because: 
 
@@ -72,7 +70,7 @@ My take: "What's the meaning of life?" is a backwards question, and the answer i
   - [**Buddhism:**](https://en.wikipedia.org/wiki/Buddhist_philosophy) Concept of [Anatta (not-self)](https://en.wikipedia.org/wiki/Anatt%C4%81). There is no permanent self. Life is continuous process of change. Thus, search for a fixed purpose or identity is a source of suffering. So, let go of any attachments or desires for specific purposes and focus on inner peace. 
   - [**Stoicism:**](https://en.wikipedia.org/wiki/Stoicism) Happiness does not depend on external circumstances. It depends on your own virtue and rationality. So, focus on what's in your control and live virtuously in accordance with the nature. In other words: Do the right thing, based on what you know about the rational world, to find contentment and purpose in life. 
 
-##### About wisdom and intelligence
+### About wisdom and intelligence
 
 Here is my perspective on the importance of wisdom in broader picture:
 
@@ -87,7 +85,7 @@ All steps are important in the end, since a chain is only as strong as its weake
 
 Without that, knowledge is just a dry description of reality, barely relevant.  
 
-##### About Self-Actualization - Last step in Mazlov's hierarchy of needs
+### About Self-Actualization - Last step in Mazlov's hierarchy of needs
 
 According to Mazlov, [self-actualization](https://en.wikipedia.org/wiki/Self-actualization) is the highest step where personal potential is fully realized after other bodily and ego needs are fulfilled. It is commonly interpreted as "the full realization of one's potential" or of one's "true self", and is associated with a person who is living creatively, autonomously, and spontaneously. 
 
@@ -106,7 +104,7 @@ The answer will likely be a mixture of the two. Awareness and being honest with 
 
 Some related concepts to this are [cognitive dissonance in psychology](https://en.wikipedia.org/wiki/Cognitive_dissonance) and lowering expectations of future. See the discussions below for more information.
 
-##### About Cognitive Dissonance
+### About Cognitive Dissonance
 
 Cognitive Dissonance is a type of psychological stress that happens when the beliefs and actions, or rather the external world, are not aligned. Since this is a mentally taxing situation, the mind wants to resolve this situation in any way possible. Thus, a common response is [rationalization](https://en.wikipedia.org/wiki/Rationalization_(psychology)), or in other words: "Believe what you do is right" (the first option in the previous discussion).
 
@@ -114,7 +112,7 @@ In practice, rationalization can cause issues and can even be pathological, or o
 
 That's why I consider it a useful practice to go over the internal beliefs, questioning them or aligning them with the external events and the reality. 
 
-##### About lowering expectations and living in the moment
+### About lowering expectations and living in the moment
 
 This concept is about: Having no or low expectations. More specifically, keeping your beliefs regarding the future minimal. This idea is particularly prominent in Buddhist and Stoic philosophies, as far as I know. 
 
@@ -131,7 +129,7 @@ This idea is also closely related to [Carpe diem (seize the day)](https://en.wik
 - [**Existentialism:**](https://en.wikipedia.org/wiki/Existentialism) Embrace the uncertainty of the future and the unknown, rather than relying on fixed beliefs or predetermined destinies. Enjoy the freedom!
 - [**Modern mindfulness**](https://en.wikipedia.org/wiki/Mindfulness): Live and stay in the present. Observe the thoughts and feelings without judgment. 
 
-##### About ikigai and having a sense of purpose
+### About ikigai and having a sense of purpose
 
 **My take:** Having a sense of purpose is important to be content in life. However, this purpose doesn't have to be grandiose. Purposelessness can be a purpose itself. As in, the purpose is to be existing or to be happy. That can be the main internal belief and can work fine, as long as you live in accordance that belief, and satisfy it. 
 

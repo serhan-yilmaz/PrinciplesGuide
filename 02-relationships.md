@@ -1,8 +1,6 @@
-## Compendium of Life Principles: How to live a satisfying life and form meaningful relationships?
+# Relationships
 
-### 1. Relationships
-
-#### Principle of Self-Value
+## Principle of Self-Value
 
 - Value yourself first. 
 - Stand up for yourself, don't let others mistreat you.
@@ -12,7 +10,7 @@
 - Not to say be selfish, but don't be self-less either. Have an identity. 
 - Don't let your value be defined by your value to others. Remember your value to yourself. 
 
-#### Principle of Nonmaleficence
+## Principle of Nonmaleficence
 
 - Do not harm others if they don't harm you or anyone else. 
 - Do not tolerate, trust or accept those who would use and harm others for selfish reasons. 
@@ -21,7 +19,7 @@
   - Only if you can. Don't be a hero. See principle of self-value, you are not responsible for other people's happiness. 
   - But remember the poem: ["First they came for..."](https://en.wikipedia.org/wiki/First_they_came_...)
 
-#### Principle of Loyalty
+## Principle of Loyalty
 
 - Do not betray those who are loyal to you. 
 - Be loyal to those you trust, and aim for mutual benefit. 
@@ -29,7 +27,7 @@
 - In return, provide support and encouragement to your allies. Lift them up. 
 - Obey the rule of reciprocity in your interactions, for as long as you wish to sustain a connection.
 
-#### Principle of Reciprocity
+## Principle of Reciprocity
 
 - Follow [the rules of reciprocity](https://en.wikipedia.org/wiki/Reciprocity_(social_psychology)), to form or continue a connection:
   - Key loop: Give what you take <=> Receive what you give.  
@@ -49,7 +47,7 @@
   - Check out [the notes on reciprocal relations and goodwill](#reciprocal-relations-and-goodwill) for further reading. 
 - When in doubt, match the other person's efforts.
 
-#### Principle of Cooperation
+## Principle of Cooperation
 
 - Aim to maximize mutual benefit.
   - Key is to increase total gain by working together. 
@@ -61,7 +59,7 @@
   - Not always for foreseeable gains. Give leeway when there is little cost to you. 
   - Do good for the sake of doing good, sometimes.  
 
-#### Principle of Respect
+## Principle of Respect
 
 - Do not think or claim you are more important than others. 
   Everyone is important to themselves from their perspective. 
@@ -79,7 +77,7 @@
   - In many cases, selfish deeds will come back to bite you, sooner or later. 
   - Instead, be sincere and approach people with goodwill. Follow the principle of authenticity to form close relationships.
 
-#### Principle of Authenticity
+## Principle of Authenticity
 
 - Be honest with yourself, always. 
 - Do what you say. Say what you do. Follow through your promises.
@@ -95,7 +93,7 @@
   - In trivial disputes, let the person who cares more have their way, if mutually beneficial cooperation is feasible. But, do not agree what you believe to be untrue. Be true to yourself and defend what's important. 
   - In conflicts involving repeated interactions, aim for a compromise when possible, unless there is a breach of trust. Threats, manipulation, dishonesty and alike would be immediate violations of trust. Deal with aggression as appropriate.
 
-#### Principle of Humility
+## Principle of Humility
 
 - Accept people as they are and acknowledge that you can't change them. 
   - You do not have such power, only they do. 
@@ -113,7 +111,7 @@
   - Do not get lost in group struggles and problems of the world. 
   - Focus on what you can solve and control. Primarily your actions. Followed by your neighborhood. Check out [stoic philosophy](https://en.wikipedia.org/wiki/Stoicism). 
 
-#### Principle of Emotionality
+## Principle of Emotionality
 
 - Realize that humans behave emotionally as much as they do logically.
   Learn the necessary skills to navigate both landscapes. 
@@ -130,7 +128,7 @@
   - For example, suppose you feel guilty. This doesn't necessarily mean you are guilty or made a mistake. Similarly, if you feel anxious, doesn't necessarily mean you are in danger. 
   - Negative emotions are warnings, but they can be false alarms. Use logic to discern. Check out [emotional_reasoning](https://en.wikipedia.org/wiki/Emotional_reasoning) for more information. 
 
-#### Principle of Attachment
+## Principle of Attachment
 
 - Be capable of accepting loss. Don't try to avoid the inevitable. 
   - Understand [sunk cost fallacy](https://en.wikipedia.org/wiki/Sunk_cost#Fallacy_effect), and try not to fall into it. 
@@ -138,7 +136,7 @@
 - Walk away, if a relationship becomes consistently harmful or otherwise not worth it in the long run. 
 - Check out [attachment styles](https://en.m.wikipedia.org/wiki/Attachment_in_adults#Styles). 
 
-#### Principle of Intimacy
+## Principle of Intimacy
 
 - Aim for consensual, mutual pleasure in sexual relations. 
 - Be safe first, then be open and playful. 
@@ -147,11 +145,11 @@
 - Check out [love languages](https://en.wikipedia.org/wiki/The_Five_Love_Languages). Speak the same language. 
   1) Words of affirmation and compliments, 2) Quality time, 3) Acts of service, 4) Physical touch, and 5) Gifts. 
 
-#### Key Takeaways
+## Key Takeaways
 
 Overall, relationships can be complex and nuanced, as they require a delicate balance. There is indeed a lot to balance. While these apply to more than relationships, heed the following in your interactions:
 
-##### Principle of Balance
+### Principle of Balance
 
 - Balance being selfless and being selfish.
 - Balance giving and taking.
@@ -169,9 +167,9 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
 - Finally, balance self-interest with a genuine interest in others. 
 * Most importantly, balance valuing others with valuing yourself.
 
-#### Notes
+## Notes
 
-##### Reciprocal Relations and Goodwill
+### Reciprocal Relations and Goodwill
 
 - Ally yourself with others who will engage in reciprocal behaviour in good will. 
 - Prioritize forming mutually beneficial connections. Engage in reciprocal behavior and do favors because you care. 
@@ -201,7 +199,7 @@ Overall, relationships can be complex and nuanced, as they require a delicate ba
   - They are effective because: They are difficult to fake. For example, carrying expensive jewelry works as a signal of wealth because not everyone can accept that cost. 
   - This applies to demonstrating goodwill as well. Time, effort and the resulting history can function as big costs for this purpose. Similarly, the ability to handle rejections or losses gracefully can be an effective indicator of goodwill. 
 
-##### Cognitive Distortions
+### Cognitive Distortions
 
 - Understand [black swan counter-example](https://en.wikipedia.org/wiki/Black_swan_theory) and recognize that unpredictable, singular events can occur. Avoid [black and white thinking](https://en.wikipedia.org/wiki/Splitting_(psychology)) and do not make generalized statements that are absolute. 
   - "All swans are white" is an absolute and unprovable statement. But, one counter-example is enough to disprove it. 
