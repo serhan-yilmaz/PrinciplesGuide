@@ -21,9 +21,9 @@ With these in mind, the first principle and a warning to follow:
 - Most importantly, live and be true to yourself.
 
 ### Chapters
-- [Preface](relationships.md)
-- 1\. [Relationships](relationships.md)
-- 2\. [Happiness](happiness.md)
-- 3\. Life and Productivity
-- 4\. Health
-- [Miscellaneous](remaining.md)  
+- 1\. [Preface](README.md)
+- 2\. [Relationships](02-relationships.md)
+- 3\. [Happiness](03-happiness.md)
+- 4\. Life and Productivity
+- 5\. Health
+- [Miscellaneous (Not organized)](remaining.md)  
